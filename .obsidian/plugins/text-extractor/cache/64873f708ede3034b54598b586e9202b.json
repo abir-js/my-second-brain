@@ -1,0 +1,1 @@
+{"path":"global-execution-context-var-example.png","text":"Memory Phase Code Phase var a = undefined; console.log(a) value of a is undefined Global Execution Context AW eraser","libVersion":"0.5.0","langs":"eng"}

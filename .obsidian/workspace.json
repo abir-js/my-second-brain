@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "2296234bddd3fa81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d63bd44f3c3b73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8c3ac7b95da3966",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe636e770ee24155",
+    "type": "split",
+    "children": [
+      {
+        "id": "b431b4a432b9aa59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "327ee5c5ce204a04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42b0dab404b0a09f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53f3552c1593222c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c5ac0d382e147be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a1666ba8a9971f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bae0110b4a74c85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔗 3 Indexes/node js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for node js"
+            }
+          },
+          {
+            "id": "ed0d2d1a7328413b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📝 2 All Notes/global execution context.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from global execution context"
+            }
+          },
+          {
+            "id": "ddbe0afa80523346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3335c57871f7a776",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "d8c3ac7b95da3966",
+  "lastOpenFiles": [
+    "📝 2 All Notes/Express.js.md",
+    "🔗 3 Indexes/backend.md",
+    "🔗 3 Indexes/Node.js.md",
+    "📝 2 All Notes/Pasted image 20250628175748.png.md",
+    "My presentation.md",
+    "sample.md",
+    "Untitled 2.canvas",
+    "📝 2 All Notes/Mongodb Connection.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Events/Green/(Every F,R,W,T,M) Workout.md",
+    "📝 2 All Notes/General Flow of Backend.md",
+    "📝 2 All Notes/express.urlencoded().md",
+    "📝 2 All Notes/rest-api.md",
+    "🔗 3 Indexes/js.md",
+    "📝 2 All Notes/this-keyword.md",
+    "assets/images/cors-backend.png",
+    "assets/images/streams-nodejs.png",
+    "📝 2 All Notes/express.json().md",
+    "📝 2 All Notes/cors.md",
+    "📝 2 All Notes/dotenv.md",
+    "📝 2 All Notes/general flow of backend.md",
+    "README.md",
+    "Excalidraw/containerization.md",
+    "📝 2 All Notes/type-conversion.md",
+    "🔗 3 Indexes/OS.md",
+    "📝 2 All Notes/copy files.md",
+    "📝 2 All Notes/create files.md",
+    "📝 2 All Notes/basic bash commands.md",
+    "📝 2 All Notes/Node.js internals.md",
+    "📝 2 All Notes/2025-06-29.md",
+    "Untitled",
+    "assets/images/how-nodejs-program-starts.png",
+    "assets/images/nodejs-architecture.png",
+    "assets/images/nodejs-graph.png",
+    "assets/images/repl-example.png",
+    "assets/images/nodejs-components.png",
+    "Untitled 3.canvas",
+    "Pasted image 20250624193535.png",
+    "assets/images/module-function-wrapper.png",
+    "assets/images/semantic-versioning.png",
+    "FS",
+    "assets/images",
+    "assets",
+    "Recording 20250616162657.m4a",
+    "hello.js",
+    "📝 2 All Notes/Node JS",
+    "🔗 3 Indexes",
+    "👽 6 Templates",
+    "Events/Blue"
+  ]
+}
