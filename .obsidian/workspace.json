@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c5ac0d382e147be7",
@@ -163,14 +164,22 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "d8c3ac7b95da3966",
   "lastOpenFiles": [
-    "📝 2 All Notes/Express.js.md",
+    "📝 2 All Notes/fs.watch() method in node.js.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/framework vs library.md",
+    "👽 6 Templates/Sub Notes.md",
     "🔗 3 Indexes/backend.md",
+    "📝 2 All Notes/2025-07-01.md",
+    "📝 2 All Notes/logger-using-middleware.md",
+    "📝 2 All Notes/middleware in express.js.md",
+    "📝 2 All Notes/rest-api.md",
+    "📝 2 All Notes/Express.js.md",
+    "drawing.excalidraw.md",
     "🔗 3 Indexes/Node.js.md",
     "📝 2 All Notes/Pasted image 20250628175748.png.md",
     "My presentation.md",
@@ -182,7 +191,6 @@
     "Events/Green/(Every F,R,W,T,M) Workout.md",
     "📝 2 All Notes/General Flow of Backend.md",
     "📝 2 All Notes/express.urlencoded().md",
-    "📝 2 All Notes/rest-api.md",
     "🔗 3 Indexes/js.md",
     "📝 2 All Notes/this-keyword.md",
     "assets/images/cors-backend.png",
@@ -192,14 +200,6 @@
     "📝 2 All Notes/dotenv.md",
     "📝 2 All Notes/general flow of backend.md",
     "README.md",
-    "Excalidraw/containerization.md",
-    "📝 2 All Notes/type-conversion.md",
-    "🔗 3 Indexes/OS.md",
-    "📝 2 All Notes/copy files.md",
-    "📝 2 All Notes/create files.md",
-    "📝 2 All Notes/basic bash commands.md",
-    "📝 2 All Notes/Node.js internals.md",
-    "📝 2 All Notes/2025-06-29.md",
     "Untitled",
     "assets/images/how-nodejs-program-starts.png",
     "assets/images/nodejs-architecture.png",

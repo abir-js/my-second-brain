@@ -25,4 +25,8 @@ status: 🟩
 1. [[Express.js]]
 2. [[framework vs library]]
 3. [[rest-api]]
-4. 
+
+### Day 2:
+
+1. [[middleware in express.js]]
+2. [[logger-using-middleware]]
