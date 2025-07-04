@@ -8,7 +8,7 @@ status: 🟩
 
 # What are streams and buffers?
 
-![[Pasted image 20250628175748.png]]
+![[streams-nodejs.png]]
 
 - Let's imagine a client has 8 GB RAM, and server has 16 GB RAM.
 

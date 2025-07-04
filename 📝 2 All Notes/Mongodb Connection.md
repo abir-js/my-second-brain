@@ -9,20 +9,21 @@ status: 🟩
 
 # How to connect to MongoDB
 
-### 1. Install mongoose
+1. Install mongoose
 
 ```js
 npm i mongoose
 ```
 
-### 2. create separate file
+ 2. create separate file
 
 ```
 example_app / 
 	└── utils/ 
-		└── db/js
+		└── db.js
 ```
-### 3. 
+
+3. 
 
 ---
 ## Related topics: 
