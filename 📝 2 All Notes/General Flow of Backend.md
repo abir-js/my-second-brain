@@ -10,6 +10,7 @@ status: 🟩
 # What is Title?
 
  1. create  a simple express app
+	 
  2. add dotenv to load environmental variables
 	- [[dotenv]]
  3. add cors to set allowed frontends

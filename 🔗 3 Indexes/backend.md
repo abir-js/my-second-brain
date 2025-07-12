@@ -15,6 +15,11 @@ status: 🟩
 	-  [[express.urlencoded()]]
 	
 2. [[Mongodb Connection]]
+	1. [[schema in mongoose]]
+	2. [[model in mongoose]]
+	
+3. Controllers
+	1. [[register user]]
 
 
 
@@ -34,8 +39,18 @@ status: 🟩
 
 ### Day 3:
 
-1. Object mode in streams
+1. [[Object mode in streams]]
+2. [[Cookies in express]]
+3. [[CSRF attack]]
 
+### Day 4
+
+1. [[sessions]]
+2. [[project - session-based task app]]
+
+### Day 5
+
+1. 
 
 ## YT
 
@@ -60,3 +75,22 @@ status: 🟩
 ### 5. Validate Environment Variables
 
 1. [[Zod]]
+
+### 6. _ _ filename _ _ dirname in Module js
+
+- [[how to use filename and dirname in express]]
+
+### 7. Serve static files in Express.js
+
+1. [[express.static()]]
+
+### 8. Route Parameters, Query Parameters
+
+1. [[route parameters in express.js]]
+2. [[query parameters in express.js]]
+
+### 9. Handle form submission
+
+1. [[form submission in express]]
+2. 
+

@@ -101,4 +101,5 @@ tags:
 ## 17. Streams
 
 1. [[streams and buffers]]
+2. [[Object mode in streams]]
 
