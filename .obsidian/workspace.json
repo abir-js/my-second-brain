@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/project - session-based task app.md",
+                "file": "🔗 3 Indexes/react.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project - session-based task app"
+              "title": "react"
             }
           }
         ]
@@ -173,6 +173,14 @@
   },
   "active": "d8c3ac7b95da3966",
   "lastOpenFiles": [
+    "📝 2 All Notes/create our own react element.md",
+    "🔗 3 Indexes/react.md",
+    "assets/images/consoling-react-element-in-browser.png",
+    "📝 2 All Notes/React.createElement().md",
+    "📝 2 All Notes/use React using CDN.md",
+    "📝 2 All Notes/what is jsx.md",
+    "📝 2 All Notes/what are components in react.md",
+    "📝 2 All Notes/what is React.md",
     "🔗 3 Indexes/backend.md",
     "📝 2 All Notes/project - session-based task app.md",
     "📝 2 All Notes/sessions.md",
@@ -191,14 +199,6 @@
     "📝 2 All Notes/Object mode in streams.md",
     "📝 2 All Notes/Path Module in Node.js.md",
     "📝 2 All Notes/Node.js internals.md",
-    "📝 2 All Notes/schema in mongoose.md",
-    "📝 2 All Notes/Mongodb Connection.md",
-    "📝 2 All Notes/cors.md",
-    "📝 2 All Notes/General Flow of Backend.md",
-    "📝 2 All Notes/CSRF attack.md",
-    "📝 2 All Notes/query parameters in express.js.md",
-    "📝 2 All Notes/route parameters in express.js.md",
-    "📝 2 All Notes/how to use filename and dirname in express.md",
     "Untitled.canvas",
     "request-response-diagram.png",
     "assets/images/streams-nodejs.png",
@@ -212,7 +212,6 @@
     "assets/images/how-nodejs-program-starts.png",
     "assets/images/nodejs-architecture.png",
     "assets/images/nodejs-graph.png",
-    "assets/images/repl-example.png",
     "Untitled 3.canvas",
     "FS",
     "assets/images",
