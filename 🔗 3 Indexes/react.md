@@ -14,6 +14,11 @@ status: 🟩
 - React.createElement() creates an object 
 - [[create our own react element]]
 
+### 5. What is JSX? | Transform JSX with Babel
+
+- [[Why do we need babel]]
+- [[type attribute in script tag]]
+
 ## frontend-batch
 
 ### Day 1
@@ -26,3 +31,6 @@ status: 🟩
 
 ### Day 2
 
+1. tailwind css
+2. [[props in react]]
+3. 

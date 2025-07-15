@@ -48,9 +48,12 @@ status: 🟩
 1. [[sessions]]
 2. [[project - session-based task app]]
 
-### Day 5
+### Day 5 - Database
 
-1. 
+1. [[Why do we need database]]
+2. [[what is database]]
+3. [[what is DBMS]]
+4. 
 
 ## YT
 
