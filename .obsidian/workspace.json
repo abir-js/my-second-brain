@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔗 3 Indexes/MySQL.md",
+                "file": "🔗 3 Indexes/react.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL"
+              "title": "react"
             }
           }
         ]
@@ -173,8 +173,13 @@
   },
   "active": "d8c3ac7b95da3966",
   "lastOpenFiles": [
-    "📝 2 All Notes/what is database.md",
+    "📝 2 All Notes/hooks in react.md",
+    "🔗 3 Indexes/react.md",
+    "📝 2 All Notes/what is jsx.md",
+    "📝 2 All Notes/what is component in react.md",
+    "📝 2 All Notes/what is React.md",
     "🔗 3 Indexes/MySQL.md",
+    "📝 2 All Notes/what is database.md",
     "📝 2 All Notes/what is MySQL.md",
     "📝 2 All Notes/what is SQL.md",
     "👽 6 Templates/Sub Notes.md",
@@ -184,22 +189,17 @@
     "📝 2 All Notes/Object mode in streams.md",
     "📝 2 All Notes/Global Object in Node.js.md",
     "📝 2 All Notes/Why do we need database.md",
-    "🔗 3 Indexes/react.md",
     "📝 2 All Notes/props in react.md",
     "📝 2 All Notes/Why do we need babel.md",
     "📝 2 All Notes/create our own react element.md",
     "assets/images/consoling-react-element-in-browser.png",
     "📝 2 All Notes/React.createElement().md",
     "📝 2 All Notes/use React using CDN.md",
-    "📝 2 All Notes/what is jsx.md",
     "📝 2 All Notes/what are components in react.md",
-    "📝 2 All Notes/what is React.md",
     "📝 2 All Notes/project - session-based task app.md",
     "📝 2 All Notes/sessions.md",
     "Excalidraw/containerization.md",
     "🔗 3 Indexes/js.md",
-    "🔗 3 Indexes/Node.js.md",
-    "📝 2 All Notes/form submission in express.md",
     "Untitled.canvas",
     "request-response-diagram.png",
     "assets/images/streams-nodejs.png",

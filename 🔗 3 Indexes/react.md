@@ -7,6 +7,11 @@ status: 🟩
 
 ## yt
 
+### 1. What is react?
+
+- [[what is React]]
+- [[what is component in react]]
+- [[what is jsx]]
 ### 4. What is React Element?
 
 - [[use React using CDN]]
@@ -33,4 +38,9 @@ status: 🟩
 
 1. tailwind css
 2. [[props in react]]
-3. 
+3. GitHub project
+
+### Day 3
+
+1. [[hooks in react]]
+2. 
