@@ -53,7 +53,9 @@ status: 🟩
 1. [[Why do we need database]]
 2. [[what is database]]
 3. [[what is DBMS]]
-4. 
+4. [[sql vs nosql]]
+5. [[what is MySQL]]
+6. [[ultimate mysql notes]]
 
 ## YT
 

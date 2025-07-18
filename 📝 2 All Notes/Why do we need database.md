@@ -7,14 +7,14 @@ status: 🟩
 
 2025-07-15        21:14
 
-# What is Database?
+# What we need Database?
 
 - maintain
 - scale
 - team friendly
 - hard to serve
 
-### Why not excel?
+## Why not excel?
 
  - Limited storage
  - slow
