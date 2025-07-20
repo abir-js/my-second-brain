@@ -57,6 +57,28 @@ status: 🟩
 5. [[what is MySQL]]
 6. [[ultimate mysql notes]]
 
+### Day 6 - MySQL day 2
+
+- [[mysql day 2 notes]]
+
+1. [[is and is not operator in MySQL]]
+2. [[between operator in mysql]]
+3. [[in operator in mysql]]
+4. [[order by clause in mysql]]
+5. [[pattern matching (like) in mysql]]
+6. [[aggregate functions in mysql - count, sum, avg, min, max]]
+	1. [[aggregate functions in mysql - count, sum, avg, min, max#1. **COUNT()**| count in mysql]]
+	2. [[aggregate functions in mysql - count, sum, avg, min, max#4. **MIN() / MAX()**| min/max in mysql]]
+7. [[limit in mysql]]
+8. 
+
+### Day 6 - MySQL day 3
+
+- [[mysql day 3 notes]]
+
+1. constraints in mysql
+2. what is composite key
+
 ## YT
 
 ### 1. How the Web Really Works! DNS, HTTP & HTTPS
