@@ -57,6 +57,9 @@ status: 🟩
 5. [[what is MySQL]]
 6. [[ultimate mysql notes]]
 
+[[mysql notes by harry]]
+
+
 ### Day 6 - MySQL day 2
 
 - [[mysql day 2 notes]]
@@ -75,9 +78,14 @@ status: 🟩
 ### Day 6 - MySQL day 3
 
 - [[mysql day 3 notes]]
+- InnoDB - storage engine of MySQL
 
-1. constraints in mysql
-2. what is composite key
+1. [[constraints in mysql]]
+2. [[what is primary key in mysql]]
+3. [[what is composite key in mysql]]
+4. [[what is foreign key in mysql]]
+5. [[transaction and commit in mysql]]
+6. 
 
 ## YT
 

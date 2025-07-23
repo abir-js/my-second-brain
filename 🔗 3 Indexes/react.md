@@ -43,4 +43,11 @@ status: 🟩
 ### Day 3
 
 1. [[hooks in react]]
-2. 
+2. [[all hooks guide in react]]
+3. [[useState hook in react]]
+
+### Day 6
+
+1. use ref
+2. forward ref
+3. useMemo

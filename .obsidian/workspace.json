@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/order by clause in mysql.md",
+                "file": "📝 2 All Notes/mysql notes by harry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "order by clause in mysql"
+              "title": "mysql notes by harry"
             }
           }
         ]
@@ -174,12 +174,22 @@
   "active": "d8c3ac7b95da3966",
   "lastOpenFiles": [
     "🔗 3 Indexes/backend.md",
+    "📝 2 All Notes/transaction and commit in mysql.md",
+    "📝 2 All Notes/mysql notes by harry.md",
     "📝 2 All Notes/mysql day 3 notes.md",
+    "📝 2 All Notes/all hooks guide in react.md",
+    "📝 2 All Notes/what is foreign key in mysql.md",
+    "📝 2 All Notes/what is composite key in mysql.md",
+    "📝 2 All Notes/what is primary key in mysql.md",
+    "📝 2 All Notes/constraints in mysql.md",
+    "🔗 3 Indexes/MySQL.md",
+    "🔗 3 Indexes/react.md",
+    "📝 2 All Notes/hooks in react.md",
+    "📝 2 All Notes/useState hook in react.md",
+    "📝 2 All Notes/order by clause in mysql.md",
     "📝 2 All Notes/mysql day 2 notes.md",
     "📝 2 All Notes/aggregate functions in mysql - count, sum, avg, min, max.md",
     "📝 2 All Notes/pattern matching (like) in mysql.md",
-    "🔗 3 Indexes/MySQL.md",
-    "📝 2 All Notes/order by clause in mysql.md",
     "📝 2 All Notes/in operator in mysql.md",
     "📝 2 All Notes/delete all data from table in mysql.md",
     "📝 2 All Notes/between operator in mysql.md",
@@ -189,16 +199,6 @@
     "📝 2 All Notes/what is MySQL.md",
     "📝 2 All Notes/ultimate mysql notes.md",
     "📝 2 All Notes/update table data in mysql.md",
-    "📝 2 All Notes/datatypes in mysql.md",
-    "📝 2 All Notes/delete a table in mysql.md",
-    "📝 2 All Notes/delete a row or user's data in mysql.md",
-    "📝 2 All Notes/all table queries in mysql.md",
-    "📝 2 All Notes/selecting data in mysql.md",
-    "📝 2 All Notes/insert data in a table mysql.md",
-    "📝 2 All Notes/describe structure of table in mysql.md",
-    "📝 2 All Notes/display all columns in a table in mysql.md",
-    "📝 2 All Notes/display list of all tables in mysql.md",
-    "📝 2 All Notes/set default values while creating table in mysql.md",
     "assets/images/consoling-react-element-in-browser.png",
     "Untitled.canvas",
     "request-response-diagram.png",

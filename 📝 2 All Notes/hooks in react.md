@@ -10,6 +10,14 @@ status: 🟩
 
 - React Hooks are special JavaScript functions introduced in React 16.8 that allow developers to use state and other React features within functional components. Prior to Hooks, these capabilities were primarily available only in class components.
 
+**Conditions:**
+- hooks are always used inside function components.
+	
+- hooks are always at the top level of function component.
+	
+- Hooks cannot be rendered conditionally.
+
+
 Key aspects of React Hooks include:
 
 - **Enabling State Management in Functional Components:**

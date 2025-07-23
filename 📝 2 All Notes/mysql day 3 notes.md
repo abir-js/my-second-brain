@@ -1,6 +1,7 @@
 ---
-tags: 
-status:
+tags:
+  - mysql
+status: 🟩
 ---
 
 2025-07-20        21:17
