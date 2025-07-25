@@ -1233,11 +1233,11 @@ We’ll use the following two tables:
 
 #### `users` table
 
-|id|name|
-|---|---|
-|1|Aarav|
-|2|Sneha|
-|3|Raj|
+| id  | name  |
+| --- | ----- |
+| 1   | Aarav |
+| 2   | Sneha |
+| 3   | Raj   |
 
 #### `addresses` table
 

@@ -51,3 +51,8 @@ status: 🟩
 1. use ref
 2. forward ref
 3. useMemo
+
+### Day 7
+
+1. prop drilling
+2. 
