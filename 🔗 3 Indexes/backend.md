@@ -25,19 +25,19 @@ status: 🟩
 
 ## backend batch
 
-### Day 1: 
+### Day 1
 
 1. [[Express.js]]
 2. [[framework vs library]]
 3. [[rest-api]]
 
-### Day 2:
+### Day 2
 
 1. [[middleware in express.js]]
 2. [[logger-using-middleware]]
 3. [[mini-project]]
 
-### Day 3:
+### Day 3
 
 1. [[Object mode in streams]]
 2. [[Cookies in express]]
@@ -85,7 +85,11 @@ status: 🟩
 3. [[what is composite key in mysql]]
 4. [[what is foreign key in mysql]]
 5. [[transaction and commit in mysql]]
-6. 
+
+### Day 7 - MySQL day 4
+
+1. [[joins in mysql]]
+2. 
 
 ## YT
 
