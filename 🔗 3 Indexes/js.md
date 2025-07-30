@@ -6,7 +6,7 @@ tags:
 
 ## Basics
 - [[JavaScript Introduction]]
-- [[data types]]
+- [[data types in JavaScript]]
 - [[type-conversion]]
 
 ## Flow Control

@@ -1,4 +1,13 @@
-tags:  #javascript 
+---
+tags:
+  - javascript
+status:
+---
+
+2025-07-30        21:34
+
+---
+# What is Title?
 
 There are two data types in JS
 
@@ -18,3 +27,5 @@ Object Includes
 1. normal object
 2. array object
 3. in-built object (Date())
+
+---

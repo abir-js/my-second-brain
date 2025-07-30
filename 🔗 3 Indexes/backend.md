@@ -21,6 +21,9 @@ status: 🟩
 3. Controllers
 	1. [[register user]]
 
+### Typescript
+
+- [[typescript]]
 
 
 ## backend batch
@@ -89,7 +92,17 @@ status: 🟩
 ### Day 7 - MySQL day 4
 
 1. [[joins in mysql]]
-2. 
+2. [[unions in mysql]]
+3. [[subqueries in mysql]]
+4. [[stored procedure in mysql]]
+
+### Day 8 - MySQL day 5
+
+1. [[views, indexes, triggers in mysql]]
+
+### Day 9 - MongoDB
+
+
 
 ## YT
 

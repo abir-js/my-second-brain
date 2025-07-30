@@ -1,7 +1,7 @@
 ---
 tags:
   - react
-status:
+status: 🟩
 ---
 
 2025-07-21        21:12
@@ -17,7 +17,7 @@ status:
 
 ### [Syntax](https://surajkumarjha.me/blog/react-hooks-guide#syntax)
 
-```
+```jsx
 const [state, setState] = useState(initialValue);
 ```
 
@@ -30,8 +30,42 @@ const [state, setState] = useState(initialValue);
 
 ### [Code Example](https://surajkumarjha.me/blog/react-hooks-guide#code-example)
 
-```
-import React, { useState } from 'react';function Counter() {  const [count, setCount] = useState(0);  const [user, setUser] = useState({ name: '', email: '' });  const increment = () => {    // Using callback function for state that depends on previous state    setCount(prevCount => prevCount + 1);  };  const updateUser = (field, value) => {    // Updating object state - must spread to create new object    setUser(prevUser => ({      ...prevUser,      [field]: value    }));  };  return (    <div>      <h2>Count: {count}</h2>      <button onClick={increment}>Increment</button>            <div>        <input          placeholder="Name"          value={user.name}          onChange={(e) => updateUser('name', e.target.value)}        />        <input          placeholder="Email"          value={user.email}          onChange={(e) => updateUser('email', e.target.value)}        />        <p>User: {user.name} - {user.email}</p>      </div>    </div>  );}
+```jsx
+import React, { useState } from 'react';
+function Counter() {  
+	const [count, setCount] = useState(0);  
+	const [user, setUser] = useState({ name: '', email: '' });  
+	const increment = () => {    
+		// Using callback function for state that depends on previous state    
+		setCount(prevCount => prevCount + 1);  
+	};  
+	const updateUser = (field, value) => {    
+		// Updating object state - must spread to create new object    
+		setUser(prevUser => ({      
+			...prevUser,      
+			[field]: value    
+		}));
+	};  
+	return (    
+		<div>      
+			<h2>Count: {count}</h2>      
+			<button onClick={increment}>Increment</button>            
+			<div>        
+				<input
+				placeholder="Name"    
+				value={user.name}
+				onChange={(e) => updateUser('name', e.target.value)}
+				/>
+				<input
+				placeholder="Email"
+				value={user.email}
+				onChange={(e) => updateUser('email', e.target.value)}
+				/>
+				<p>User: {user.name} - {user.email}</p>
+			</div>
+		</div>  
+	);
+}
 ```
 
 ---
@@ -58,8 +92,62 @@ useEffect(() => {  // Effect logic  return () => {    // Cleanup function (optio
 
 ### [Code Example](https://surajkumarjha.me/blog/react-hooks-guide#code-example-1)
 
-```
-import React, { useState, useEffect } from 'react';function UserProfile({ userId }) {  const [user, setUser] = useState(null);  const [loading, setLoading] = useState(true);  const [windowWidth, setWindowWidth] = useState(window.innerWidth);  // Effect with dependency - runs when userId changes  useEffect(() => {    const fetchUser = async () => {      setLoading(true);      try {        // Simulating API call        const response = await fetch(`/api/users/${userId}`);        const userData = await response.json();        setUser(userData);      } catch (error) {        console.error('Error fetching user:', error);      } finally {        setLoading(false);      }    };    if (userId) {      fetchUser();    }  }, [userId]); // Only run when userId changes  // Effect with cleanup - runs once on mount  useEffect(() => {    const handleResize = () => {      setWindowWidth(window.innerWidth);    };    // Add event listener    window.addEventListener('resize', handleResize);    // Cleanup function - removes event listener    return () => {      window.removeEventListener('resize', handleResize);    };  }, []); // Empty dependency array - runs only once  // Effect without dependencies - runs after every render  useEffect(() => {    document.title = user ? `Profile: ${user.name}` : 'Loading...';  });  if (loading) return <div>Loading...</div>;  return (    <div>      <h2>User Profile</h2>      <p>Window Width: {windowWidth}px</p>      {user && (        <div>          <h3>{user.name}</h3>          <p>Email: {user.email}</p>        </div>      )}    </div>  );}
+```jsx
+import React, { useState, useEffect } from 'react';
+function UserProfile({ userId }) {  
+	const [user, setUser] = useState(null);  
+	const [loading, setLoading] = useState(true); 
+	const [windowWidth, setWindowWidth] = useState(window.innerWidth);  
+	// Effect with dependency - runs when userId changes  
+	useEffect(() => {    
+		const fetchUser = async () => {
+			setLoading(true);      
+			try {        
+				// Simulating API call        
+				const response = await fetch(`/api/users/${userId}`);        
+				const userData = await response.json();        
+				setUser(userData);      
+			} catch (error) {        
+				console.error('Error fetching user:', error);      
+			} finally {        
+				setLoading(false);      
+			}    
+		};    
+		if (userId) {      
+			fetchUser();    
+		}  
+	}, [userId]); 
+	// Only run when userId changes  
+	// Effect with cleanup - runs once on mount  
+	useEffect(() => {    
+	const handleResize = () => {      
+		setWindowWidth(window.innerWidth);    
+	};    
+	// Add event listener    
+	window.addEventListener('resize', handleResize);    
+	// Cleanup function - removes event listener    
+	return () => {      
+		window.removeEventListener('resize', handleResize);    
+	};  }, []); 
+	// Empty dependency array - runs only once  
+	// Effect without dependencies - runs after every render  
+	useEffect(() => {    
+		document.title = user ? `Profile: ${user.name}` : 'Loading...';  
+	});  
+	if (loading) return <div>Loading...</div>;  
+	return (    
+		<div>      
+			<h2>User Profile</h2>      
+			<p>Window Width: {windowWidth}px</p>      
+			{user && (        
+				<div>          
+					<h3>{user.name}</h3>          
+					<p>Email: {user.email}</p>        
+				</div>      
+			)}    
+		</div>  
+	);
+}
 ```
 
 ---
@@ -72,7 +160,7 @@ import React, { useState, useEffect } from 'react';function UserProfile({ userId
 
 ### [Syntax](https://surajkumarjha.me/blog/react-hooks-guide#syntax-2)
 
-```
+```jsx
 const ref = useRef(initialValue);
 ```
 
@@ -85,8 +173,53 @@ const ref = useRef(initialValue);
 
 ### [Code Example](https://surajkumarjha.me/blog/react-hooks-guide#code-example-2)
 
-```
-import React, { useState, useRef, useEffect } from 'react';function FocusInput() {  const [count, setCount] = useState(0);  const inputRef = useRef(null);  const previousCountRef = useRef();  const renderCountRef = useRef(0);  // Focus input on mount  useEffect(() => {    inputRef.current.focus();  }, []);  // Store previous count value  useEffect(() => {    previousCountRef.current = count;  });  // Track render count  renderCountRef.current += 1;  const handleFocus = () => {    // Direct DOM manipulation    inputRef.current.focus();    inputRef.current.select();  };  const handleClear = () => {    // Clear input value directly    inputRef.current.value = '';    inputRef.current.focus();  };  return (    <div>      <h2>useRef Example</h2>            <div>        <input          ref={inputRef}          placeholder="Type something..."          defaultValue="Hello World"        />        <button onClick={handleFocus}>Focus & Select</button>        <button onClick={handleClear}>Clear</button>      </div>      <div>        <p>Current count: {count}</p>        <p>Previous count: {previousCountRef.current}</p>        <p>Render count: {renderCountRef.current}</p>        <button onClick={() => setCount(count + 1)}>          Increment Count        </button>      </div>    </div>  );}
+```jsx
+import React, { useState, useRef, useEffect } from 'react';
+function FocusInput() {  
+	const [count, setCount] = useState(0);  
+	const inputRef = useRef(null);  
+	const previousCountRef = useRef();  
+	const renderCountRef = useRef(0);  
+	// Focus input on mount  useEffect(() => {    
+	inputRef.current.focus();  }, []);  
+	// Store previous count value  
+	useEffect(() => {    
+		previousCountRef.current = count;  
+	});  
+	// Track render count  
+	renderCountRef.current += 1; 
+	const handleFocus = () => {    
+		// Direct DOM manipulation    
+		inputRef.current.focus();    
+		inputRef.current.select();  
+	};  
+	const handleClear = () => {    
+		// Clear input value directly    
+		inputRef.current.value = '';    
+		inputRef.current.focus();  
+	};  
+	return (    
+		<div>      
+			<h2>useRef Example</h2>            
+			<div>        
+				<input          
+				ref={inputRef}          
+				placeholder="Type something..."          
+				defaultValue="Hello World"        
+				/>        
+				<button onClick={handleFocus}>Focus & Select</button>
+				<button onClick={handleClear}>Clear</button>      
+			</div>      
+			<div>        
+				<p>Current count: {count}</p>        
+				<p>Previous count: {previousCountRef.current}</p>        
+				<p>Render count: {renderCountRef.current}</p>        
+				<button onClick={() => setCount(count + 1)}>          
+				Increment Count        
+				</button>      
+			</div>    
+		</div>  );
+}
 ```
 
 ---
@@ -99,7 +232,7 @@ import React, { useState, useRef, useEffect } from 'react';function FocusInput()
 
 ### [Syntax](https://surajkumarjha.me/blog/react-hooks-guide#syntax-3)
 
-```
+```jsx
 const contextValue = useContext(MyContext);
 ```
 

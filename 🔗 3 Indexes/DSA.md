@@ -26,7 +26,7 @@ tags:
 
 ### Java basics
 
-- [[sample java code explanation]]
+- [[basic java code skeleton]]
 ### Collections and frameworks in Java
 
 - [[What are collections in java]]

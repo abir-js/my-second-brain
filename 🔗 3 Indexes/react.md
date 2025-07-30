@@ -45,6 +45,13 @@ status: 🟩
 1. [[hooks in react]]
 2. [[all hooks guide in react]]
 3. [[useState hook in react]]
+4. [[useEffect hook in react]]
+
+### Day 4
+
+1. [[events in react]]
+2. map
+3. keys
 
 ### Day 6
 
@@ -55,4 +62,3 @@ status: 🟩
 ### Day 7
 
 1. prop drilling
-2. 
