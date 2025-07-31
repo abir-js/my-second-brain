@@ -22,7 +22,17 @@ tags:
 4. [[widening or implicit conversion in java]]
 5. [[narrowing or explicit conversion in java]]
 6. [[String in java]]
-### Arrays in JAVA
+
+### 2. Arithmetic and Bitwise Operation 
+
+1. [[arithmetic and bitwise operation in java]]
+
+### 3. If-else, loops and flow control 
+
+1. [[if-else, loops and flow control in java]]
+### 4. Arrays in JAVA
+
+- [[array in java]]
 
 ## DSA in Java - Apna College
 ### 1. Flowcharts and pseudocode
