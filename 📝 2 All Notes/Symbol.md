@@ -2,5 +2,5 @@
 tags:
   - javascript
 ---
-tags: [[js]] 
+tags: [[JavaScript]] 
 

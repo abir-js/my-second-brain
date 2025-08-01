@@ -9,6 +9,8 @@ tags:
  - [[what is MySQL]]
 	 
  - [[ultimate mysql notes]]
+	
+- [[mysql notes by harry]]
 
 ---
 ## 1. Introduction
@@ -74,10 +76,6 @@ tags:
 4. [[sql vs nosql]]
 5. [[what is MySQL]]
 6. [[ultimate mysql notes]]
-
-[[mysql notes by harry]]
-
-
 ### Day 6 - MySQL day 2
 
 - [[mysql day 2 notes]]

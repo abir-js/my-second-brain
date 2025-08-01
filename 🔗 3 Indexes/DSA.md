@@ -5,7 +5,7 @@ tags:
 
 ## Day 1
 
-### Introduction to DSA
+### 1. Introduction to DSA
 
 1. **Data** - Set of information
 	- Peene ke liye pani manga tha, balti me le aye
@@ -24,25 +24,32 @@ tags:
 3. **Time complexity**
 	1. Time taken to perform a task
 
-### Java basics
+### 2. Java basics
 
 - [[basic java code skeleton]]
-### Collections and frameworks in Java
+### 3. Collections and frameworks in Java
 
 - [[What are collections in java]]
 - [[what is interface in java]]
 - [[interface vs class in java]]
 
-### Difference b/w List, Set, Queue, map
+### 4. Difference b/w List, Set, Queue, Map
 
-| Topics             | List                                        | Set                                              | Queue                                                                                               | Map                                |
-| ------------------ | ------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| Properties         | Stores single element.                      | Stores single element.                           | Stores single element.                                                                              | Stores elements in key value pair. |
-| When to use        |                                             |                                                  |                                                                                                     |                                    |
-| element repetation | Possible                                    | no repetation                                    | possible                                                                                            | Keys are unique. Value may repeat. |
-| ordering           | possible                                    | not possible. Order is based on algorithm.       | Maintains order. But based on types                                                                 |                                    |
-| Types              | 1. Array List<br>2. Linked List<br>3. Stack | 1. Hash Set<br>2. Linked Hash Set<br>3. Tree Set | 1. Array Queue<br>2. Linked List<br>3. Priority Queue<br>        1. max heap<br>        2. min heap | 1. Hash Map<br>2. Tree Map         |
-| example            | (1, 2, 3, 2)                                | (2, 3, 1)                                        |                                                                                                     |                                    |
+- [[difference between list, set, queue and map]]
+
+### 5. Implementation of interfaces
+
+- [[iterators in java]]
+
+1. [[List in java]]
+	1. [[ArrayList in java]]
+	2. [[LinkedList in java]]
+		1. [[ArrayList vs LinkedList]]
+		2. [[how dynamic array works]]
+2. 
+
+
+
 - tostring()
 - equals()
 - comparable()

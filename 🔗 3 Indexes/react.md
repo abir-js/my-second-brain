@@ -49,9 +49,7 @@ status: 🟩
 
 ### Day 4
 
-1. [[events in react]]
-2. map
-3. keys
+1. [[events, keys, map in react]]
 
 ### Day 6
 
