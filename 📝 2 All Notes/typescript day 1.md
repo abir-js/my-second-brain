@@ -300,5 +300,3 @@ function greet(name: string = "Guest", age?: number) {
 
 ---
 
-
----

@@ -25,7 +25,7 @@
       "query": "tag:#docker  ",
       "color": {
         "a": 1,
-        "rgb": 31743
+        "rgb": 2853358
       }
     },
     {
@@ -61,6 +61,13 @@
       "color": {
         "a": 1,
         "rgb": 13853796
+      }
+    },
+    {
+      "query": "tag:#typescript  ",
+      "color": {
+        "a": 1,
+        "rgb": 730536
       }
     }
   ],

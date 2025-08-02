@@ -36,7 +36,6 @@ tags:
 ### 4. Difference b/w List, Set, Queue, Map
 
 - [[difference between list, set, queue and map]]
-
 ### 5. Implementation of interfaces
 
 - [[iterators in java]]
@@ -46,7 +45,11 @@ tags:
 	2. [[LinkedList in java]]
 		1. [[ArrayList vs LinkedList]]
 		2. [[how dynamic array works]]
-2. 
+		3. [[what is autoboxing and unboxing in java]]
+	3. [[Stack in java]]
+2. [[Queue in java]]
+	- Difference b/w `poll()` vs `peek()` vs `remove()`
+	- Difference b/w `offer()` vs `add()`
 
 
 
@@ -57,6 +60,27 @@ tags:
 
 ## Day 2
 
+- Stack
 - Linked List
 - Queue
-- Stack
+
+## Day 3
+
+- **HashMap inner working**
+	- **Equals function** =>` equals()`
+		- Used to compare value of objects
+	- **Hashcode function**
+		- used in HashSet HashMap
+		- returns key where to store object
+		- collision 
+			- hashcode is same for two objects
+			- uses `equals()` to check if elements are same
+				- true - replace old with new or ignore new
+				- false - stores on same hash code index after first object in form of LinkedList
+	- **tostring function** => `toString()`
+		- converts to string, 
+		- used to print Objects, else `print()` will log address or hashcode.
+		- Collections like `List`, `ArrayList` already have built in `toString()` function.
+	- HashSet and HashMap working
+- **Comparator vs Comparable:**
+	- 

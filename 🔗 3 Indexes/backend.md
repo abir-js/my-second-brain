@@ -21,10 +21,6 @@ status: 🟩
 3. Controllers
 	1. [[register user]]
 
-### Typescript
-
-- [[typescript]]
-
 
 ## backend batch
 
