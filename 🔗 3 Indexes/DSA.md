@@ -50,19 +50,46 @@ tags:
 2. [[Queue in java]]
 	- Difference b/w `poll()` vs `peek()` vs `remove()`
 	- Difference b/w `offer()` vs `add()`
-
+	1. [[PriorityQueue in java]]
+		- **min-heap**
+			- top node is minimum
+			- complete binary tree (all nodes are in same level)
+			-             5
+			-          /     \
+			-      10         20
+			-     /   \        /    \
+			- 15   25     35    40
+		- **max-heap**
+			-            40
+			-          /     \
+			-      35         30
+			-     /   \        /    \
+			- 25   20     15    10
+	2. [[ArrayDeque in java]]
+3. [[Set in java]]
+	1. [[HashSet in java]]
+		- Doesn't maintains order
+	2. LinkedHashSet
+		- Maintains Order
+	3. TreeSet
+		- Keeps elements sorted using binary search Tree
+	4. [[HashSet vs LinkedHashSet vs TreeSet]]
+4. [[]]
 
 
 - tostring()
 - equals()
 - comparable()
-- hashcode()
-
 ## Day 2
 
 - Stack
-- Linked List
 - Queue
+- PriorityQueue
+- Array Deque (Double ended queue)
+	- Insertion and deletion available from both end
+- Set
+	- equals()
+	- hashcode()
 
 ## Day 3
 
@@ -83,4 +110,11 @@ tags:
 		- Collections like `List`, `ArrayList` already have built in `toString()` function.
 	- HashSet and HashMap working
 - **Comparator vs Comparable:**
-	- 
+
+## **Day 4**
+
+1. **Time Complexity**
+	- Types of equations:
+		1. **Linear** => $y = mx + c => ax + by + c = 0$
+		2. **Quadratic** => $y = ax^2 + bx + c$
+		3. 
