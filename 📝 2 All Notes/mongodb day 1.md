@@ -4,10 +4,9 @@ tags:
 status: 🟩
 ---
 
-2025-08-01        16:12
+2025-08-04        10:25
 
 ---
-
 ## MongoDB - Day 1
 
 ## **What is MongoDB?**
@@ -174,5 +173,6 @@ db.myCollection.find({ "name": "John" });
 ```javascript
 db.myCollection.find({ "name": "John" }, { "age": 1 });
 ```
+
 
 ---

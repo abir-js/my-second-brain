@@ -74,7 +74,9 @@ tags:
 	3. TreeSet
 		- Keeps elements sorted using binary search Tree
 	4. [[HashSet vs LinkedHashSet vs TreeSet]]
-4. [[]]
+4. Map in java
+	1. [[HashMap in java]]
+	2. [[TreeMap in java]]
 
 
 - tostring()

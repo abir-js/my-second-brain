@@ -1,7 +1,6 @@
 ---
 tags:
-  - backend
-  - database
+  - mysql
 status: 🟩
 ---
 

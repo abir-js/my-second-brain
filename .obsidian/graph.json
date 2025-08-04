@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#javascript  ",
@@ -68,6 +68,13 @@
       "color": {
         "a": 1,
         "rgb": 730536
+      }
+    },
+    {
+      "query": "tag:#mongodb  ",
+      "color": {
+        "a": 1,
+        "rgb": 6807657
       }
     }
   ],
