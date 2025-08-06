@@ -3,7 +3,7 @@ tags:
   - index
 status: 🟩
 ---
-## cohort
+## Cohort
 
 ## yt
 
@@ -61,11 +61,21 @@ status: 🟩
 1. [[useRef hook in react]]
 2. [[forwardRef in react]]
 3. [[useMemo in react]]
+4. [[useCallback in react]]
 
 ### Day 7
 
 1. prop drilling
 
 
+## Sigma Batch
 
+### Part 1
+
+1.  [[what is jsx]]
+2. [[what is component in react]]
+3. [[import-export in react]]
+4. [[Writing-markup in react]]
+5. [[React Fragment]]
+6. 
 

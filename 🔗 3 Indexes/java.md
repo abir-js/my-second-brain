@@ -50,7 +50,7 @@ tags:
 
 ### 23. Time and space complexity
 
-1. 
+1. [[Time and Space Complexity]]
 
 ## DSA in JAVA Cohort
 
