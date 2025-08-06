@@ -10,13 +10,14 @@ status: 🟩
 ### 1. What is react?
 
 - [[what is React]]
+- [[folder structure of react]]
 - [[what is component in react]]
 - [[what is jsx]]
 ### 4. What is React Element?
 
 - [[use React using CDN]]
 - [[React.createElement()]]
-- React.createElement() creates an object 
+	- React.createElement() creates an object 
 - [[create our own react element]]
 
 ### 5. What is JSX? | Transform JSX with Babel
@@ -51,12 +52,20 @@ status: 🟩
 
 1. [[events, keys, map in react]]
 
+### Day 5
+
+1. react-router-dom
+
 ### Day 6
 
-1. use ref
-2. forward ref
-3. useMemo
+1. [[useRef hook in react]]
+2. [[forwardRef in react]]
+3. [[useMemo in react]]
 
 ### Day 7
 
 1. prop drilling
+
+
+
+

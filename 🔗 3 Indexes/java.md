@@ -39,16 +39,18 @@ tags:
 
 ### 2. Variables and datatypes
 
-2. [[first java code]]
-3. [[output in java]]
-4. [[variables in java]]
-5. [[datatypes in java]]
-6. [[input in java]]
-7. [[type conversion in java]]
-8. [[type casting in java]]
-9. [[type promotion in java]]
-10. 
+1. [[first java code]]
+2. [[output in java]]
+3. [[variables in java]]
+4. [[datatypes in java]]
+5. [[input in java]]
+6. [[type conversion in java]]
+7. [[type casting in java]]
+8. [[type promotion in java]]
 
+### 23. Time and space complexity
+
+1. 
 
 ## DSA in JAVA Cohort
 

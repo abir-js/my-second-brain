@@ -7,7 +7,7 @@ status: 🟩
 2025-08-04        10:28
 
 ---
-<!-- REad operation in mongodb -->
+<!-- Read operation in mongodb -->
 
 
 ### **1. `find()` Examples**
