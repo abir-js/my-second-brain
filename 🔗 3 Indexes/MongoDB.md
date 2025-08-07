@@ -9,8 +9,11 @@ tags:
 
 - [[mongodb day 1]]
 - [[mongodb day 2]]
-- [[import-export data in mongodb]]
-- 
+	- [[import-export data in mongodb]]
+- [[mongodb day 3]]
+	- [[embedded-documents in mongodb]]
+	- [[projection in mongodb]]
+	- [[update in mongodb]]
 
 
 ---

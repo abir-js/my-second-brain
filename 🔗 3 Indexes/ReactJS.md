@@ -65,7 +65,8 @@ status: 🟩
 
 ### Day 7
 
-1. prop drilling
+1. [[prop drilling in react]]
+2. [[useContext in react]]
 
 
 ## Sigma Batch
@@ -77,5 +78,9 @@ status: 🟩
 3. [[import-export in react]]
 4. [[Writing-markup in react]]
 5. [[React Fragment]]
-6. 
+6. [[what is webpack]]
+
+### Part 2
+
+1. [[props in react]]
 
