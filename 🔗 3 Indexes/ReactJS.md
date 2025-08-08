@@ -83,4 +83,16 @@ status: 🟩
 ### Part 2
 
 1. [[props in react]]
+2. [[props in react#Passing arrays, objects to props | Passing arrays, objects to props]]
 
+### Part 3
+
+1. [[Handling events in react]]
+	1. [[Handling events in react#**Event Object** | Event Object In react]]
+2. [[states in react]]
+	1. [[states in react#🔍 What does "immutable" mean here? | Props are immutable in React]]
+3. [[hooks in react]]
+	1. [[useState hook in react]]
+		1. [[late state value update in console]]
+		2. [[closure in js]]
+		3. 

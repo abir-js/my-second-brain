@@ -20,7 +20,7 @@ tags:
 - [[📝 2 All Notes/temporal dead zone|temporal dead zone]]
 - [[call stack]]
 - [[lexical scope]]
-- [[closure]]
+- [[closure in js]]
 -  [[asynchronous code]]
 - [[Synchronous vs Asynchronous]]
 - [[event loop]]

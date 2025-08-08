@@ -35,6 +35,6 @@ console.log(g());
 
 ## Related topics: 
 
-- [[closure]]
+- [[closure in js]]
 
 
