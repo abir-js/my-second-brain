@@ -7,26 +7,27 @@ status:
 2025-08-08        13:12
 
 ---
-```tsx
-import { useState } from "react"; 
+# Late state value update in console
 
-function Counter() { 
-	const [count, setCount] = useState<number>(0); 
-	
-	function IncreaseCount(): void { 
-		setCount(count + 1); console.log(count); 
-	} 
-	
-	return ( 
-		<div> 
-			<h3>{count}</h3> 
-			<button 
-			onClick={IncreaseCount}
-			>Increase Count>
-			</button>
-		</div>
-	); 
-} 
+```tsx
+import { useState } from "react";
+
+function Counter() {
+  const [count, setCount] = useState<number>(0);
+
+  function IncreaseCount(): void {
+    setCount(count + 1);
+    console.log(count);
+  }
+
+  return (
+    <div>
+      <h3>{count}</h3>
+      <button onClick={IncreaseCount}>Increase Count</button>
+    </div>
+  );
+}
+
 export default Counter;
 ```
 

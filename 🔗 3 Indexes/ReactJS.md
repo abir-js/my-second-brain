@@ -95,4 +95,8 @@ status: 🟩
 	1. [[useState hook in react]]
 		1. [[late state value update in console]]
 		2. [[closure in js]]
-		3. 
+		3. [[how re-render works in react]]
+		4. [[callback in set state function]]
+		5. [[more concepts about states in react]]
+		6. [[object in state]]
+		7. 
