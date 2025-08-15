@@ -100,4 +100,6 @@ status: 🟩
 		5. [[more concepts about states in react]]
 		6. [[object in state]]
 		7. [[unique key for list items]]
-		8. 
+		8. [[delete from arrays in react]]
+		9. [[update arrays in react]]
+	2. 
