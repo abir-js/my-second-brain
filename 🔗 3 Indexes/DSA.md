@@ -119,4 +119,16 @@ tags:
 	- Types of equations:
 		1. **Linear** => $y = mx + c => ax + by + c = 0$
 		2. **Quadratic** => $y = ax^2 + bx + c$
-		3. 
+
+## day 5
+
+## day 6
+
+1. string builder vs stringbuffer
+2. Arrays
+
+
+
+
+## Arrays
+
