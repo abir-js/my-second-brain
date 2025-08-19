@@ -92,7 +92,9 @@ status: 🟩
 2. [[states in react]]
 	1. [[states in react#🔍 What does "immutable" mean here? | Props are immutable in React]]
 	2. [[functions as props in react]]
-3. [[hooks in react]]
+3. [[Forms in react]]
+	1. [[handling multiple inputs in react]]
+4. [[hooks in react]]
 	1. [[useState hook in react]]
 		1. [[late state value update in console]]
 		2. [[closure in js]]
@@ -103,5 +105,5 @@ status: 🟩
 		7. [[unique key for list items]]
 		8. [[delete from arrays in react]]
 		9. [[update arrays in react]]
-4. [[Forms in react]]
+		
 
