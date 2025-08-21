@@ -94,6 +94,7 @@ status: 🟩
 	2. [[functions as props in react]]
 3. [[Forms in react]]
 	1. [[handling multiple inputs in react]]
+	2. [[form validation in react]]
 4. [[hooks in react]]
 	1. [[useState hook in react]]
 		1. [[late state value update in console]]
@@ -105,5 +106,3 @@ status: 🟩
 		7. [[unique key for list items]]
 		8. [[delete from arrays in react]]
 		9. [[update arrays in react]]
-		
-
