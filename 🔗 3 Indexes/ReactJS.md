@@ -106,3 +106,4 @@ status: 🟩
 		7. [[unique key for list items]]
 		8. [[delete from arrays in react]]
 		9. [[update arrays in react]]
+	2. [[useEffect hook in react]]

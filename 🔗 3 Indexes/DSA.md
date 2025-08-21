@@ -122,11 +122,64 @@ tags:
 
 ## day 5
 
-## day 6
+## day 6 - Arrays
+
+### Problems: 
+
+- **powerOfTwo**
+
+```java
+class Solution {
+	public boolean isPowerOfTwo(double n) {
+		if(n == 1) return true;
+		else if(n < 1) return false;
+		else return isPowerOfTwo(n/2.0);
+	}
+}
+```
+
+- **powerOfFour**
+- **3304. Find Kth Character in String Game**
+
+> Problem: Word starts from "a"
+> +1 and add, "a" -> "ab" -> "abbc"
+> return kth character
+
+```java
+StringBuilder word = new StringBuilder("a");
+
+void getWord(int k){
+	if(k <= 1) {
+		return;
+	}
+	else {
+		StringBuilder temp = new StringBuilder();
+		int originalLength = word.length();
+
+		int i = 0;
+		while(i < originalLength){
+			// Check old string's first character
+			// increase by 1 
+			// add it in temp
+			if (word.charAt(i) == "z") 
+				temp.append("a");
+			else
+				temp.append((char)word.charAt(i) + 1);
+			
+			i++; k--;
+		}
+		word.append(temp);
+		getWord(k);
+	}
+}
+```
 
 1. string builder vs stringbuffer
-2. Arrays
 
+### Arrays
+
+[[array in java]]
+[[arrays in dsa]]
 
 
 
