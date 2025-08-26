@@ -16,6 +16,6 @@ status: 🟩
 3. Source files for Java core classes.
 4. The JRE (which includes in JVM).
 
-![[Pasted image 20250730123512.png]]
+![[jdk-jvm-jre2.png]]
 
 ---

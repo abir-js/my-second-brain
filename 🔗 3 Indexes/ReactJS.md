@@ -107,3 +107,4 @@ status: 🟩
 		8. [[delete from arrays in react]]
 		9. [[update arrays in react]]
 	2. [[useEffect hook in react]]
+5. [[what is redux]]

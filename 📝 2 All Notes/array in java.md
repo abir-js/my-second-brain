@@ -1,7 +1,8 @@
 ---
 tags:
   - java
-status:
+  - dsa
+status: 🟩
 ---
 
 2025-07-31        11:35
@@ -11,7 +12,11 @@ status:
 
 In Java, an **array** is a container object that holds a fixed number of values of a **single type**. The length of an array is established when the array is created. After creation, its length is fixed.
 
+List of elements of same type in contiguous memory location.
+
 ---
+
+![[array-visualixation-in-memory]]
 
 ### 🔹 Syntax for Declaring an Array
 
@@ -94,9 +99,5 @@ public class ArrayExample {
     
 - Use `.length` (no `()` like methods) to get array size
     
-
----
-
-If you want multidimensional arrays (like 2D arrays), let me know!
 
 ---
