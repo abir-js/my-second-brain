@@ -81,7 +81,7 @@ return left;
 
 ![[Pasted image 20250822194112.png]]
 
-- Find bigger b/w i and j, place it in the position ok k
+- Find bigger b/w i and j, place it in the position of k
 - decrease all of them.
 
 ![[Pasted image 20250822232322.png]]
@@ -92,6 +92,9 @@ return left;
 
 
 - **66. Plus One**
+
+A large integer re
+
 
 
 ---

@@ -60,6 +60,11 @@ tags:
 
 ### 14. Arrays (Part II)
 1. [[max subarray sum]]
+2. [[max subarray sum using kadane's algo]]
+3. [[trapping rainwater problem]]
+4. [[best time to buy and sell stocks]]
+5. 
+
 
 ### 23. Time and space complexity
 
@@ -250,6 +255,16 @@ void getWord(int k){
 ###  day 7 - LinkedList
 
 [[linkedlist in java]]
+
+### day 8 - LinkedList part 2
+
+### day 9 - stack and queue
+
+- priority queue
+
+### day 10 - trees
+
+
 
 ## Arrays
 
