@@ -7,9 +7,16 @@ tags:
 ---
 # What is Title?
 
-1. [[JavaScript]]
-2. [[ReactJS]]
-3. [[TypeScript]]
-4. [[NextJS]]
+## How internet works
+
+1. [[Internet Working]]
+2. [[dns]]
+3. 
+
+
+3. [[JavaScript]]
+4. [[ReactJS]]
+5. [[TypeScript]]
+6. [[NextJS]]
 
 ---

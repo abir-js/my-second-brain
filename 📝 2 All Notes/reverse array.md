@@ -10,6 +10,10 @@ status: 🟩
 ---
 # Reverse an Array
 
+## 1. Using temp array
+
+
+## 2. Using 2 pointers
 
 ```java
 public class reverseArray {

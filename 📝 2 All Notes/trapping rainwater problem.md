@@ -30,7 +30,7 @@ status: 🟩
 
 ![[trapping-rainwater-auxilary-arrays]]
 
-![[Pasted image 20250831102957.png]]
+![[trappting-rainwater-leetcode.png]]
 
 ```java
 class Solution {
@@ -57,5 +57,6 @@ class Solution {
     }
 }
 ```
+
 
 ---

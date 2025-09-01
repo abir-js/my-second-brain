@@ -51,19 +51,30 @@ tags:
 ### 13. Arrays
 
 1. [[array in java]]
-2. [[creating an array in java]]
-3. [[passing arrays as arguments]]
-4. [[linear search]]
-5. [[binary search]]
-6. [[reverse array]]
-7. [[print continuous subarrays]]
+2. [[contiguous memory allocation in array]]
+3. [[why zero based indexing in array]]
+4. [[32 bit vs 64 bit processor]]
+5. [[creating an array in java]]
+6. [[passing arrays as arguments]]
+7. [[linear search]]
+8. [[binary search]]
+9. [[reverse array]]
+10. [[print continuous subarrays]]
+#### Questions Coder Army
+
+1. [[search an element in an array]]
+2. [[reverse array]]
+3. [[find second max in array]]
+4. [[find missing number in array]]
+5. [[rotate array by 1]]
+6. 
 
 ### 14. Arrays (Part II)
 1. [[max subarray sum]]
 2. [[max subarray sum using kadane's algo]]
 3. [[trapping rainwater problem]]
 4. [[best time to buy and sell stocks]]
-5. 
+5. [[217. contains duplicates]]
 
 
 ### 23. Time and space complexity
