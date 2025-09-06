@@ -76,7 +76,16 @@ tags:
 4. [[best time to buy and sell stocks]]
 5. [[217. contains duplicates]]
 
+### 15. Sorting
 
+1. [[bubble sort]]
+2. [[selection sort]]
+3. [[insertion sort]]
+4. [[inbuilt sort]]
+
+### Binary Search
+
+- [[binary search]]
 ### 23. Time and space complexity
 
 1. [[Time and Space Complexity]]

@@ -22,6 +22,10 @@ status: 🟩
 	1. [[register user]]
 
 
+## Prisma
+- [[prisma-important commands]]
+- 
+
 ## backend batch
 
 1. [[Node.js]]
