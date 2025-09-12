@@ -82,10 +82,19 @@ tags:
 2. [[selection sort]]
 3. [[insertion sort]]
 4. [[inbuilt sort]]
+5. [[counting sort]]
+
+### 16. 2D Array
+
+- [[2d arrays in memory]]
+- [[spiral matrix]]
+- 
 
 ### Binary Search
 
 - [[binary search]]
+
+
 ### 23. Time and space complexity
 
 1. [[Time and Space Complexity]]

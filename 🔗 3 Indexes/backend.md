@@ -24,7 +24,12 @@ status: 🟩
 
 ## Prisma
 - [[prisma-important commands]]
-- 
+
+## Redis
+
+## Sokets
+
+- [[socket]]
 
 ## backend batch
 

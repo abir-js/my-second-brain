@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/inbuilt sort.md",
+                "file": "📝 2 All Notes/parallel routes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inbuilt sort"
+              "title": "parallel routes"
+            }
+          },
+          {
+            "id": "d43e2e9d3af25b43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/server-component.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "server-component"
             }
           }
         ]
@@ -176,34 +188,34 @@
   },
   "active": "31ecd4eafcf84836",
   "lastOpenFiles": [
+    "🔗 3 Indexes/NextJS.md",
+    "📝 2 All Notes/parallel routes.md",
+    "📝 2 All Notes/intercepting routes.md",
+    "📝 2 All Notes/client component vs server component.md",
+    "Excalidraw/server-component.md",
+    "Excalidraw/Drawing 2025-09-11 14.54.11.excalidraw.md",
+    "📝 2 All Notes/private folders in nextjs.md",
+    "📝 2 All Notes/file colocation.md",
+    "📝 2 All Notes/notes.md",
+    "📝 2 All Notes/layout in nextjs.md",
+    "🔗 3 Indexes/resources.md",
     "🔗 3 Indexes/java.md",
+    "📝 2 All Notes/spiral matrix.md",
+    "🔗 3 Indexes/backend.md",
+    "📝 2 All Notes/socket.md",
+    "Excalidraw/sockets.md",
+    "Excalidraw/spiral-matrix.md",
+    "📝 2 All Notes/cors.md",
+    "📝 2 All Notes/2d arrays in memory.md",
+    "Excalidraw/2d-array-memory-representation.md",
+    "📝 2 All Notes/counting sort.md",
+    "Excalidraw/counting-sort.md",
     "📝 2 All Notes/inbuilt sort.md",
     "📝 2 All Notes/binary search.md",
     "Excalidraw/insertion-sort-reverse.md",
     "📝 2 All Notes/217. contains duplicates.md",
-    "Excalidraw/insertion-sort.md",
-    "📝 2 All Notes/insertion sort.md",
-    "📝 2 All Notes/bubble sort.md",
-    "Excalidraw/bubble-sort-reverse.md",
-    "📝 2 All Notes/JavaScript runtime environment.md",
-    "📝 2 All Notes/prisma-important commands.md",
-    "🔗 3 Indexes/backend.md",
-    "Excalidraw/bubble-sort-visualization.md",
-    "📝 2 All Notes/selection sort.md",
-    "Excalidraw/selection-sort.md",
-    "📝 2 All Notes/Internet Working.md",
-    "Excalidraw/port-number.md",
     "Pasted image 20250901203547.png",
-    "Excalidraw/mac-address.md",
-    "🔗 3 Indexes/frontend.md",
-    "📝 2 All Notes/dns.md",
     "Pasted image 20250901200410.png",
-    "Excalidraw/how-internet-works.md",
-    "📝 2 All Notes/find missing number in array.md",
-    "📝 2 All Notes/find second max in array.md",
-    "📝 2 All Notes/reverse array.md",
-    "📝 2 All Notes/search an element in an array.md",
-    "📝 2 All Notes/2025-09-01.md",
     "Untitled.canvas",
     "assets/images/trappting-rainwater-leetcode.png",
     "assets/images/Pasted image 20250809010527.png",
