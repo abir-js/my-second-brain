@@ -8,7 +8,7 @@ status:
 2025-09-23        00:45
 
 ---
-# What is Title?
+# Island Parameter problem?
 
 ![[island-parameter]]
 

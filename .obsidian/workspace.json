@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9132f14d74c46b3",
+        "id": "92e4b737d61e4bf2",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f2e629a17fe21e",
+            "id": "d6ff3e91201b0157",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "b77290471ac1d9e1",
+            "id": "dfec1bb5d390ae42",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -186,7 +186,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f7f2e629a17fe21e",
+  "active": "d6ff3e91201b0157",
   "lastOpenFiles": [
     "Excalidraw/island-parameter.md",
     "📝 2 All Notes/island parameter.md",
