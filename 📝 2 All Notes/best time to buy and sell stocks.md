@@ -39,45 +39,27 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 
 ## Strategy:
 
-```java
-profit = sellingPrice - buyPrice
-buyPrice = min(price)
-sellPrice = currentPrice
-
-buyPrice = INTEGER.max
-maxProffit = 0
-
-for(int i = 0 to n){
-	if (buyPrice < sellPrice){
-		maxProfit = max(buyPrice - sellPrice)
-	} else {
-		buyPrice = sellingPrice
-	}
-}
-
-```
+![[buy-and-sell-stocks]]
 
 ## Code: 
 
 ```java
 
-public class buyAndSellStock {
-	public static int maxProfit(int[] prices) {
-		int buyPrice = Integer.MAX_VALUE;
-		int maxProfit = 0;
-		for(int i = 0; i<prices.length; i++){
-			if(buyPrice < prices[i]) { //profit
-				int profit = prices[i] - buyPrice; // today's profit
-				maxProfit = Math.max(maxProfit, profit);
-			} else {
-				buyPrice = prices[i];
+class Solution {
+	public int maxProfit(int[] prices) {
+		int buyPrice = prices[0];
+		int profit = 0;
+		for (int x : prices) {
+			if (x < buyPrice) { // agar current price buyPrice se kam hoga to current price pe buy karo
+				buyPrice = x; 
+			} else { // agar current price buy price se bada hai to zyada profit pe sell karo
+				int currProfit = x - buyPrice;
+				if (currProfit > profit) {
+					profit = currProfit;
+				}
 			}
 		}
-		return maxProfit;
-	}
-	public static void main(String[] args) {
-		int[] prices = {7, 1, 5, 3, 6, 4};
-		System.out.println("Max profit: "+ maxProfit(prices));
+		return profit;
 	}
 }
 ```

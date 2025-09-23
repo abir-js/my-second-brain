@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 6807657
       }
+    },
+    {
+      "query": "tag:nextjs",
+      "color": {
+        "a": 1,
+        "rgb": 14389780
+      }
     }
   ],
   "collapse-display": true,

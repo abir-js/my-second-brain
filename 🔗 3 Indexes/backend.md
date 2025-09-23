@@ -27,7 +27,9 @@ status: 🟩
 
 ## Redis
 
-## Sokets
+- [[redis]]
+
+## Sockets
 
 - [[socket]]
 

@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "31ffc47da7daf081",
+        "id": "a9132f14d74c46b3",
         "type": "tabs",
         "children": [
           {
-            "id": "31ecd4eafcf84836",
+            "id": "f7f2e629a17fe21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/parallel routes.md",
+                "file": "📝 2 All Notes/island parameter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "parallel routes"
+              "title": "island parameter"
             }
           },
           {
-            "id": "d43e2e9d3af25b43",
+            "id": "b77290471ac1d9e1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/server-component.md"
+                "file": "Excalidraw/island-parameter.md"
               },
               "icon": "excalidraw-icon",
-              "title": "server-component"
+              "title": "island-parameter"
             }
           }
         ]
@@ -186,34 +186,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31ecd4eafcf84836",
+  "active": "f7f2e629a17fe21e",
   "lastOpenFiles": [
+    "Excalidraw/island-parameter.md",
+    "📝 2 All Notes/island parameter.md",
+    "🔗 3 Indexes/java.md",
+    "📝 2 All Notes/2025-09-23.md",
+    "🔗 3 Indexes/todo.md",
+    "👽 6 Templates/Todo.md",
+    "📝 2 All Notes/Untitled 1.md",
+    "Telegram/1. drink more water_2. exercis - 20250703021808017.md",
+    "📝 2 All Notes/best time to buy and sell stocks.md",
+    "📝 2 All Notes/66. plus one.md",
+    "📝 2 All Notes/basic java code skeleton.md",
+    "📝 2 All Notes/2d arrays in memory.md",
+    "📝 2 All Notes/217. contains duplicates.md",
+    "Excalidraw/buy-and-sell-stocks.md",
+    "Excalidraw/plus-one.md",
+    "📝 2 All Notes/array in java.md",
+    "🔗 3 Indexes/backend.md",
+    "📝 2 All Notes/redis.md",
+    "📝 2 All Notes/socket.md",
+    "📝 2 All Notes/derivatives.md",
+    "Excalidraw/server-component.md",
+    "Excalidraw/parallel-routes.md",
     "🔗 3 Indexes/NextJS.md",
+    "📝 2 All Notes/unmatched routes.md",
     "📝 2 All Notes/parallel routes.md",
     "📝 2 All Notes/intercepting routes.md",
-    "📝 2 All Notes/client component vs server component.md",
-    "Excalidraw/server-component.md",
-    "Excalidraw/Drawing 2025-09-11 14.54.11.excalidraw.md",
-    "📝 2 All Notes/private folders in nextjs.md",
-    "📝 2 All Notes/file colocation.md",
-    "📝 2 All Notes/notes.md",
-    "📝 2 All Notes/layout in nextjs.md",
-    "🔗 3 Indexes/resources.md",
-    "🔗 3 Indexes/java.md",
-    "📝 2 All Notes/spiral matrix.md",
-    "🔗 3 Indexes/backend.md",
-    "📝 2 All Notes/socket.md",
-    "Excalidraw/sockets.md",
-    "Excalidraw/spiral-matrix.md",
-    "📝 2 All Notes/cors.md",
-    "📝 2 All Notes/2d arrays in memory.md",
-    "Excalidraw/2d-array-memory-representation.md",
-    "📝 2 All Notes/counting sort.md",
-    "Excalidraw/counting-sort.md",
-    "📝 2 All Notes/inbuilt sort.md",
-    "📝 2 All Notes/binary search.md",
-    "Excalidraw/insertion-sort-reverse.md",
-    "📝 2 All Notes/217. contains duplicates.md",
     "Pasted image 20250901203547.png",
     "Pasted image 20250901200410.png",
     "Untitled.canvas",

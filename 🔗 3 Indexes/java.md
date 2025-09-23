@@ -67,7 +67,6 @@ tags:
 3. [[find second max in array]]
 4. [[find missing number in array]]
 5. [[rotate array by 1]]
-6. 
 
 ### 14. Arrays (Part II)
 1. [[max subarray sum]]
@@ -75,6 +74,10 @@ tags:
 3. [[trapping rainwater problem]]
 4. [[best time to buy and sell stocks]]
 5. [[217. contains duplicates]]
+
+#### Cohort
+1. [[66. plus one]]
+2. [[best time to buy and sell stocks]]
 
 ### 15. Sorting
 
@@ -87,13 +90,13 @@ tags:
 ### 16. 2D Array
 
 - [[2d arrays in memory]]
+#### Problems
 - [[spiral matrix]]
-- 
+- [[island parameter]]
 
 ### Binary Search
 
 - [[binary search]]
-
 
 ### 23. Time and space complexity
 
