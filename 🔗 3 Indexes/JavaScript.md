@@ -28,3 +28,8 @@ tags:
 
 [[this-keyword]]
 
+## 100 days of JS
+
+1. [[what is multi-tenancy]]
+2. [[how ChatGPT works]]
+3. 

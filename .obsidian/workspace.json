@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92e4b737d61e4bf2",
+        "id": "a9132f14d74c46b3",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ff3e91201b0157",
+            "id": "f7f2e629a17fe21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/island parameter.md",
+                "file": "📝 2 All Notes/data types in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "island parameter"
-            }
-          },
-          {
-            "id": "dfec1bb5d390ae42",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/island-parameter.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "island-parameter"
+              "title": "data types in JavaScript"
             }
           }
         ]
@@ -155,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔗 3 Indexes/ReactJS.md",
+                "file": "📝 2 All Notes/data types in JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ReactJS"
+              "title": "Outline of data types in JavaScript"
             }
           }
         ],
@@ -186,36 +174,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d6ff3e91201b0157",
+  "active": "f7f2e629a17fe21e",
   "lastOpenFiles": [
-    "Excalidraw/island-parameter.md",
-    "📝 2 All Notes/island parameter.md",
-    "🔗 3 Indexes/java.md",
-    "📝 2 All Notes/2025-09-23.md",
-    "🔗 3 Indexes/todo.md",
-    "👽 6 Templates/Todo.md",
-    "📝 2 All Notes/Untitled 1.md",
-    "Telegram/1. drink more water_2. exercis - 20250703021808017.md",
-    "📝 2 All Notes/best time to buy and sell stocks.md",
-    "📝 2 All Notes/66. plus one.md",
-    "📝 2 All Notes/basic java code skeleton.md",
-    "📝 2 All Notes/2d arrays in memory.md",
-    "📝 2 All Notes/217. contains duplicates.md",
-    "Excalidraw/buy-and-sell-stocks.md",
-    "Excalidraw/plus-one.md",
-    "📝 2 All Notes/array in java.md",
-    "🔗 3 Indexes/backend.md",
-    "📝 2 All Notes/redis.md",
-    "📝 2 All Notes/socket.md",
-    "📝 2 All Notes/derivatives.md",
-    "Excalidraw/server-component.md",
-    "Excalidraw/parallel-routes.md",
-    "🔗 3 Indexes/NextJS.md",
-    "📝 2 All Notes/unmatched routes.md",
-    "📝 2 All Notes/parallel routes.md",
-    "📝 2 All Notes/intercepting routes.md",
-    "Pasted image 20250901203547.png",
+    "🔗 3 Indexes/JavaScript.md",
+    "📝 2 All Notes/JavaScript Introduction.md",
+    "📝 2 All Notes/data types in JavaScript.md",
     "Pasted image 20250901200410.png",
+    "Pasted image 20250901203547.png",
+    "assets/images/datatypes-in-js.png",
+    "📝 2 All Notes/Symbol.md",
+    "📝 2 All Notes/how ChatGPT works.md",
+    "Excalidraw/how-chatgpt-works.md",
+    "📝 2 All Notes/what is multi-tenancy.md",
+    "🔗 3 Indexes/java.md",
+    "📝 2 All Notes/search in sorted matrix.md",
+    "Excalidraw/stare-case-search.md",
+    "Excalidraw/diagonal-sum.md",
+    "📝 2 All Notes/diagonal sum.md",
+    "📝 2 All Notes/spiral matrix.md",
+    "Excalidraw/spiral-matrix.md",
+    "🔗 3 Indexes/todo.md",
+    "📝 2 All Notes/2025-09-25.md",
+    "👽 6 Templates/Todo.md",
+    "📝 2 All Notes/redis.md",
+    "🔗 3 Indexes/tasks.md",
+    "Excalidraw/island-parameter.md",
+    "🔗 3 Indexes/backend.md",
+    "📝 2 All Notes/Express.js.md",
+    "Excalidraw/multi-tenancy.md",
+    "📝 2 All Notes/find first and last position of element in sorted array.md",
+    "📝 2 All Notes/move zeros.md",
+    "📝 2 All Notes/counting sort.md",
     "Untitled.canvas",
     "assets/images/trappting-rainwater-leetcode.png",
     "assets/images/Pasted image 20250809010527.png",
@@ -224,7 +213,6 @@
     "assets/images/jdk-jvm-jre2.png",
     "assets/images/Pasted image 20250730131534.png",
     "assets/images/Pasted image 20250808180628.png",
-    "assets/images/Pasted image 20250808180651.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled",

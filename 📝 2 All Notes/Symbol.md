@@ -1,6 +1,14 @@
 ---
 tags:
   - javascript
+status: 🟩
 ---
-tags: [[JavaScript]] 
 
+2025-09-25        22:21
+
+---
+# What is Title?
+
+- 
+
+---

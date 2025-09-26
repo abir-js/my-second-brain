@@ -92,15 +92,29 @@ tags:
 - [[2d arrays in memory]]
 #### Problems
 - [[spiral matrix]]
+- [[diagonal sum]]
+- [[search in sorted matrix]]
+
+Cohort
 - [[island parameter]]
+- [[majority element]]
+- [[move zeros]]
+- [[relative ranks]]
+- [[distribute candies]]
+- [[baseball games]]
 
 ### Binary Search
 
 - [[binary search]]
 
+#### Problems
+- [[find first and last position of element in sorted array]]
+
 ### 23. Time and space complexity
 
 1. [[Time and Space Complexity]]
+
+### 28. Stack
 
 
 
