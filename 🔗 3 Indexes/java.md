@@ -109,6 +109,7 @@ Cohort
 
 #### Problems
 - [[find first and last position of element in sorted array]]
+- [[search insert position]]
 
 ### 23. Time and space complexity
 

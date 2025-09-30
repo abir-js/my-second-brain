@@ -7,6 +7,7 @@ tags:
 ## Basics
 - [[JavaScript Introduction]]
 - [[data types in JavaScript]]
+- [[memory management]]
 - [[type-conversion]]
 
 ## Flow Control
@@ -32,4 +33,4 @@ tags:
 
 1. [[what is multi-tenancy]]
 2. [[how ChatGPT works]]
-3. 
+3. [[database relationships]]

@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a9132f14d74c46b3",
+        "id": "856c74204dbccce7",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f2e629a17fe21e",
+            "id": "0dee6d1228530517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/data types in JavaScript.md",
+                "file": "🔗 3 Indexes/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "data types in JavaScript"
+              "title": "JavaScript"
+            }
+          },
+          {
+            "id": "7d62b9ea3fe204ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/memory-management-in-js.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "memory-management-in-js"
             }
           }
         ]
@@ -174,11 +186,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f7f2e629a17fe21e",
+  "active": "0dee6d1228530517",
   "lastOpenFiles": [
+    "📝 2 All Notes/memory management.md",
+    "Pasted image 20250930215753.png",
+    "Excalidraw/memory-management-in-js.md",
     "🔗 3 Indexes/JavaScript.md",
-    "📝 2 All Notes/JavaScript Introduction.md",
+    "🔗 3 Indexes/java.md",
+    "📝 2 All Notes/search insert position.md",
+    "Excalidraw/search-insert-position.md",
+    "📝 2 All Notes/find first and last position of element in sorted array.md",
+    "Excalidraw/first-and-last-occurance.md",
+    "🔗 3 Indexes/NextJS.md",
+    "📝 2 All Notes/database relationships.md",
+    "Excalidraw/database-modeling.md",
     "📝 2 All Notes/data types in JavaScript.md",
+    "📝 2 All Notes/JavaScript Introduction.md",
     "Pasted image 20250901200410.png",
     "Pasted image 20250901203547.png",
     "assets/images/datatypes-in-js.png",
@@ -186,7 +209,6 @@
     "📝 2 All Notes/how ChatGPT works.md",
     "Excalidraw/how-chatgpt-works.md",
     "📝 2 All Notes/what is multi-tenancy.md",
-    "🔗 3 Indexes/java.md",
     "📝 2 All Notes/search in sorted matrix.md",
     "Excalidraw/stare-case-search.md",
     "Excalidraw/diagonal-sum.md",
@@ -195,16 +217,6 @@
     "Excalidraw/spiral-matrix.md",
     "🔗 3 Indexes/todo.md",
     "📝 2 All Notes/2025-09-25.md",
-    "👽 6 Templates/Todo.md",
-    "📝 2 All Notes/redis.md",
-    "🔗 3 Indexes/tasks.md",
-    "Excalidraw/island-parameter.md",
-    "🔗 3 Indexes/backend.md",
-    "📝 2 All Notes/Express.js.md",
-    "Excalidraw/multi-tenancy.md",
-    "📝 2 All Notes/find first and last position of element in sorted array.md",
-    "📝 2 All Notes/move zeros.md",
-    "📝 2 All Notes/counting sort.md",
     "Untitled.canvas",
     "assets/images/trappting-rainwater-leetcode.png",
     "assets/images/Pasted image 20250809010527.png",
@@ -212,7 +224,6 @@
     "assets/images/Pasted image 20250822194112.png",
     "assets/images/jdk-jvm-jre2.png",
     "assets/images/Pasted image 20250730131534.png",
-    "assets/images/Pasted image 20250808180628.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled",
