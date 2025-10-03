@@ -31,4 +31,8 @@ tags:
 1. [[intercepting routes]]
 2. [[parallel routes]]
 3. [[unmatched routes]]
-4. 
+
+
+## day 4
+
+- [[server action in nextjs]]

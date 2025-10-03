@@ -9,6 +9,10 @@ tags:
 - [[data types in JavaScript]]
 - [[memory management]]
 - [[type-conversion]]
+- [[operators in js]]
+- [[numbers and math object]]
+- [[string in js]]
+- [[date in js]]
 
 ## Flow Control
 - [[loops]]

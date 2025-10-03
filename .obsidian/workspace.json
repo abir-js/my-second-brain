@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "856c74204dbccce7",
+        "id": "676ab4f1d3d524b7",
         "type": "tabs",
         "children": [
           {
-            "id": "0dee6d1228530517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔗 3 Indexes/JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          },
-          {
-            "id": "7d62b9ea3fe204ae",
+            "id": "b53c25816d729125",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/memory-management-in-js.md"
+                "file": "Excalidraw/introduction-to-genai.md"
               },
               "icon": "excalidraw-icon",
-              "title": "memory-management-in-js"
+              "title": "introduction-to-genai"
             }
           }
         ]
@@ -186,18 +172,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dee6d1228530517",
+  "active": "b53c25816d729125",
   "lastOpenFiles": [
+    "📝 2 All Notes/what is GenAI.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/server action in nextjs.md",
+    "Excalidraw/server-action.md",
+    "🔗 3 Indexes/NextJS.md",
+    "🔗 3 Indexes/JavaScript.md",
+    "Excalidraw/operators-in-js.md",
+    "📝 2 All Notes/numbers and math object.md",
+    "📝 2 All Notes/date in js.md",
+    "📝 2 All Notes/string in js.md",
+    "📝 2 All Notes/operators in js.md",
+    "🔗 3 Indexes/java.md",
+    "Excalidraw/introduction-to-genai.md",
+    "Pasted Image 20251001162522_739.png",
     "📝 2 All Notes/memory management.md",
     "Pasted image 20250930215753.png",
     "Excalidraw/memory-management-in-js.md",
-    "🔗 3 Indexes/JavaScript.md",
-    "🔗 3 Indexes/java.md",
     "📝 2 All Notes/search insert position.md",
     "Excalidraw/search-insert-position.md",
     "📝 2 All Notes/find first and last position of element in sorted array.md",
     "Excalidraw/first-and-last-occurance.md",
-    "🔗 3 Indexes/NextJS.md",
     "📝 2 All Notes/database relationships.md",
     "Excalidraw/database-modeling.md",
     "📝 2 All Notes/data types in JavaScript.md",
@@ -208,22 +205,12 @@
     "📝 2 All Notes/Symbol.md",
     "📝 2 All Notes/how ChatGPT works.md",
     "Excalidraw/how-chatgpt-works.md",
-    "📝 2 All Notes/what is multi-tenancy.md",
-    "📝 2 All Notes/search in sorted matrix.md",
-    "Excalidraw/stare-case-search.md",
-    "Excalidraw/diagonal-sum.md",
-    "📝 2 All Notes/diagonal sum.md",
-    "📝 2 All Notes/spiral matrix.md",
-    "Excalidraw/spiral-matrix.md",
-    "🔗 3 Indexes/todo.md",
-    "📝 2 All Notes/2025-09-25.md",
     "Untitled.canvas",
     "assets/images/trappting-rainwater-leetcode.png",
     "assets/images/Pasted image 20250809010527.png",
     "assets/images/Pasted image 20250814134140.png",
     "assets/images/Pasted image 20250822194112.png",
     "assets/images/jdk-jvm-jre2.png",
-    "assets/images/Pasted image 20250730131534.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled",
