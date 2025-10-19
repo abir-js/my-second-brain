@@ -7,11 +7,7 @@ status: 🟩
 2025-10-03        11:46
 
 ---
-# What is Title?
-
-## Date
-
----
+# Date
 
 ### **In-Depth Lecture Notes: The JavaScript `Date` Object**
 

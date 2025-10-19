@@ -2,6 +2,7 @@
 tags:
   - index
   - backend
+  - redis
 ---
 # What is Redis?
 

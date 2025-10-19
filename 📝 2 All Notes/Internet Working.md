@@ -17,7 +17,7 @@ status:
 A logbook for IP addresses
 ### How DNS works
 
-![[Pasted image 20250901200410.png]]
+![[dns.png]]
 
 ### If IP is dynamic then how server sends data to correct device?
 
@@ -69,7 +69,7 @@ Connects local network.
 ### WiFi
 
 
-![[Pasted image 20250901203547.png]]
+![[introduction-to-web.png]]
 
 ---
 

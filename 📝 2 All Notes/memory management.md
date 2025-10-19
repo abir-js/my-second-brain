@@ -149,6 +149,6 @@ let user = { id: counter };      // Object
 
 ![[memory-management-in-js]]
 
-![[Pasted image 20250930215753.png]]
+![[memory-management-in-js-1.png]]
 
 ---

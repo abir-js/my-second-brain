@@ -15,7 +15,7 @@ A logbook for ip addresses
 
 ### How DNS works
 
-![[Pasted image 20250901200410.png]]
+![[dns.png]]
 
 ### Q. If 
 

@@ -28,6 +28,7 @@ status: 🟩
 ## Redis
 
 - [[redis]]
+- [[streams in redis]]
 
 ## Sockets
 

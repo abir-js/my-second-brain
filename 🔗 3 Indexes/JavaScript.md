@@ -18,6 +18,15 @@ tags:
 - [[loops]]
 - [[if-else]]
 
+## Arrays in JS
+
+- [[arrays in js]]
+
+## Object in JS
+
+- [[object in js]]
+
+
 ## Interview Concepts
 - [[global execution context]]
 - [[function execution context]]
