@@ -26,6 +26,10 @@ tags:
 
 - [[object in js]]
 
+## Function in JS
+
+- [[function in js]]
+
 
 ## Interview Concepts
 - [[global execution context]]

@@ -2,6 +2,7 @@
 tags:
   - java
   - dsa
+  - cpp
 status: 🟩
 ---
 
@@ -10,9 +11,21 @@ status: 🟩
 ---
 # Reverse an Array
 
-## 1. Using temp array
+## 1. Using half size array
 
-
+```cpp
+class Solution {
+  public:
+    void reverseArray(vector<int> &arr) {
+        // code here
+        for(int i=0; i<arr.size()/2; i++){
+    		int temp = arr[i];
+    		arr[i] = arr[arr.size() - i - 1];
+    		arr[arr.size()-i-1] = temp;
+	    }
+    }
+};
+```
 ## 2. Using 2 pointers
 
 ```java
@@ -20,8 +33,8 @@ public class reverseArray {
 	public static void reverseArr(int arr[]) {
 
 		int i = 0;
-	
 		int j = arr.length - 1;
+		
 		while (i < j) {
 			int temp;
 			temp = arr[i];

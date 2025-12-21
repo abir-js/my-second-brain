@@ -25,3 +25,10 @@
 ### Weak 3
 - [[2025-09-23]]
 - [[2025-09-25]]
+
+## October
+
+### 20 Oct
+- [ ] Authentication
+- [ ] Node js
+- [ ] JS
