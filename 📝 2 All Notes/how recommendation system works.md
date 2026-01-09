@@ -69,6 +69,10 @@ Netflix movie recommendation system
 
 ![[vector | 700]]
 
+### How these vectors gets created?
+
+- Neural networks creates these vectors. This is known as vector embedding.
+
 
 
 ---

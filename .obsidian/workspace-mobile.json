@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔗 3 Indexes/gen-ai.md",
-                "mode": "source",
+                "file": "📝 2 All Notes/how recommendation system works.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gen-ai"
+              "title": "how recommendation system works"
             },
             "group": "ccfc6ce1a852c275"
           }
@@ -214,8 +214,8 @@
   },
   "active": "5e8d438af36b623d",
   "lastOpenFiles": [
-    "📝 2 All Notes/how recommendation system works.md",
     "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/how recommendation system works.md",
     "🔗 3 Indexes/java.md",
     "📝 2 All Notes/What is Java.md",
     "📝 2 All Notes/what is GenAI.md"
