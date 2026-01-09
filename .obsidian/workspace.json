@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/how recommendation system works.md",
+                "file": "📝 2 All Notes/abc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how recommendation system works"
+              "title": "abc"
             }
           },
           {
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 2 All Notes/how recommendation system works.md",
+                "file": "📝 2 All Notes/abc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for how recommendation system works"
+              "title": "Backlinks for abc"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 2 All Notes/how recommendation system works.md",
+                "file": "📝 2 All Notes/abc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from how recommendation system works"
+              "title": "Outgoing links from abc"
             }
           },
           {
@@ -154,17 +154,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 2 All Notes/how recommendation system works.md",
+                "file": "📝 2 All Notes/abc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how recommendation system works"
+              "title": "Outline of abc"
+            }
+          },
+          {
+            "id": "f6f73fe4a3aa6993",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "40f4599fe9cada20",
@@ -184,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +215,11 @@
   },
   "active": "6ef1e569490b3ec4",
   "lastOpenFiles": [
-    "Excalidraw/vector.md",
-    "📝 2 All Notes/how recommendation system works.md",
-    "Excalidraw/graph-based-solution-for-vector-database.md",
     "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/abc.md",
+    "📝 2 All Notes/how recommendation system works.md",
+    "Excalidraw/vector.md",
+    "Excalidraw/graph-based-solution-for-vector-database.md",
     "Excalidraw/1d-array-as-recommendation-system.md",
     "Pasted Image 20251004113724_815.png",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -233,7 +245,6 @@
     "📝 2 All Notes/2025-09-01.md",
     "📝 2 All Notes/66. plus one.md",
     "Excalidraw/Sqrt(x).md",
-    "Excalidraw/island-parameter.md",
     "Untitled.canvas",
     "assets/images/jdk-jvm-jre.png",
     "assets/images/arrays-in-js.png",
