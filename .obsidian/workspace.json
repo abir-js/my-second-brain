@@ -209,7 +209,6 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
