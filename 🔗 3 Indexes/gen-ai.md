@@ -9,7 +9,6 @@ tags:
 1. [[what is GenAI]]
 2. 
 
-## 2. What is Vector 
+## 2. Build Recommendation System
 
 - [[how recommendation system works]]
-- 
