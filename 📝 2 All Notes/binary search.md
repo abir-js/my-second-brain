@@ -2,6 +2,8 @@
 tags:
   - dsa
   - java
+  - cpp
+  - binary-search
 status: 🟩
 ---
 

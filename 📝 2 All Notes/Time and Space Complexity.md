@@ -18,7 +18,7 @@ status: 🟩
 
 ## 2. What is Time Complexity
 
->It is the total time taken by an algorithm to run as a function  of the length of the input.
+>It is the total time taken by an algorithm to run as a function of the length of the input.
 
 
 ![[Pasted image 20250808180957.png]]
@@ -37,13 +37,12 @@ status: 🟩
 
 #### Big(O)
 
-### 3. Average Case
-
-#### Theta (θ)
-
 ### 2. Best Case
 
 #### Omega (Ω)
+### 3. Average Case
+
+#### Theta (θ)
 
 ---
 ## Rules:
@@ -67,7 +66,7 @@ for(i=1; i<=n; i++){
 2. **Take Biggest Power**
 
 $f(n) = 2N^3 + 3N^2 + N$
-=> O($n^2$)
+=> O($n^3$)
 
 ---
 ## Practice Questions

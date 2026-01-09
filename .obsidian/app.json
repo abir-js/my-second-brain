@@ -5,5 +5,7 @@
   "newFileFolderPath": "📝 2 All Notes",
   "defaultViewMode": "source",
   "showUnsupportedFiles": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "attachmentFolderPath": "/",
+  "alwaysUpdateLinks": true
 }

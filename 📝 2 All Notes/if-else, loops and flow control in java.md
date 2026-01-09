@@ -175,13 +175,3 @@ public static void check(int num) {
 ```
 
 ---
-
-Would you like:
-
-- A chart comparing `for`, `while`, and `do-while`?
-    
-- Sample problems to practice `if-else` and loops?
-    
-- Flowchart-based printable notes?
-
----

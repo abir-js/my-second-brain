@@ -17,6 +17,46 @@ Large elements come to the end of array by swapping with adjacent elements.
 
 Array me bade values chote values ko swap kaeke aakhir me chale jate hai
 
+## Code
+
+```cpp
+// move the biggest element to the end of the array
+for(int j=0; j<n-1; j++){
+	if(arr[j] > arr[j+1]){
+		swap(arr[j], arr[j+1]);
+	}
+}
+```
+
+```cpp
+// now do this for whole array
+bool isSwap = false;
+for(int i=0; i<n-1; i++){
+	for(int j=0; j<i-1-i; j++){
+		if(arr[j] > arr[j+1]) {
+			swap(arr[j], arr[j+1]);
+			isSwap = true;
+		}
+	}
+	if(!isSwap) return arr;
+}
+return arr;
+```
+
+```cpp
+bool isSwap = false;
+for(int j=n-1; i>=0; i++){
+	for(int j=i; j<n-1; j++){
+		if(arr[j] > arr[j+1]) {
+			swap(arr[j], arr[j+1]);
+			isSwap = true;
+		}
+	}
+	if(!isSwap) return arr;
+}
+return arr;
+```
+
 ## Example
 
 ![[bubble-sort-visualization]]

@@ -16,6 +16,38 @@ tags:
 	3. [[find missing number in array]]  ==XOR==
 	4. [[rotate array by 1]]    
 	5. [[rotate array]]    `reverse => reverse first k => reverse rest`
-	6. [[sum of unique elements]]    `loop through array => if match skip => rest add in sum`
-	7. [[remove duplicates from array]]
+	6. [[sum of unique elements]]   
+		1. `loop through array => if match skip => rest add in sum` 
+		2. `add frequency in another array`
+	7. [[second largest element]]
+
+Practice
+	11 push negative back
+	36 segregate 0s and 1s
+	63 majority element 
+	
+
+## Time and space complexity
+
+- [[Time and Space Complexity]]
+
+## Sorting
+
+### 1. Selection Sort
+- [[selection sort]]
+
+### 2. Bubble Sort
+- [[bubble sort]]
+
+### 3. Insertion S0rt
+- [[insertion sort]]
+
+## Binary Search
+
+- [[binary search]]
+- [[find first and last position of element in sorted array]]
+- [[search insert position]]
+- [[📝 2 All Notes/Sqrt(x)|Sqrt(x)]]
+
+
 

@@ -1,5 +1,9 @@
 ---
-tags: 
+tags:
+  - dsa
+  - cpp
+  - array
+  - binary-search
 status:
 ---
 
@@ -20,58 +24,49 @@ status:
 ## 2. Method 2 (Binary Search)
 
 ```cpp
-#include <iostream>
-using namespace std;
-int main()
-{
-	int arr[] = {1, 2, 2, 2, 2, 3, 4};
-	int n = sizeof(arr) / sizeof(arr[0]);
-	int target = 2;
-	int first = -1, last = -1;
-	
-	// For first
-	int start = 0, end = n - 1, mid;
-	while (start <= end)
-	{
-		mid = start + (end - start) / 2;
-		if (arr[mid] == target)
-		{
-			first = mid;
-			end = mid - 1;
+class Solution {
+public:
+	vector<int> searchRange(vector<int>& nums, int target) {
+		int first = -1;
+		int n = nums.size();
+		
+		// search for first element;
+		int start = 0, end = n - 1;
+		while (start <= end) {
+			int mid = start + (end - start) / 2;
+			if (nums[mid] == target) {
+				// if found, assume it is the first element and search in first half of array if any other is present
+				first = mid;    
+				end = mid - 1;
+			} else if (nums[mid] > target) {
+				end = mid - 1;
+			} else {
+				start = mid + 1;
+			}
 		}
-		else if (target > arr[mid])
-		{
-			start = mid + 1;
+		
+		// search for last element;
+		int last = -1;
+		start = 0, end = n - 1;
+		while (start <= end) {
+			int mid = start + (end - start) / 2;
+			if (nums[mid] == target) {
+				// if found, assume it is the last element and search in last half of array if any other is present
+				last = mid;
+				start = mid + 1;
+			} else if (nums[mid] > target) {
+				end = mid - 1;
+			} else {
+				start = mid + 1;
+			}
 		}
-		else
-		{
-			end = mid - 1;
-		}
+		
+		vector<int> arr;
+		arr.push_back(first);
+		arr.push_back(last);
+		return arr;
 	}
-	cout << "Start Position is " << first << endl;
-	
-	// For Last
-	start = 0, end = n - 1;
-	while (start <= end)
-	{
-		mid = start + (end - start) / 2;
-		if (arr[mid] == target)
-		{
-			last = mid;
-			start = mid + 1;
-		}
-		else if (target > arr[mid])
-		{
-			start = mid + 1;
-		}
-		else
-		{
-			end = mid - 1;
-		}
-	}
-	cout << "Last Position is " << last << endl;
-	return 0;
-}
+};
 ```
 
 

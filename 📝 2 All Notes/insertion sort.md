@@ -16,6 +16,28 @@ status:
 Cards game
 ## Idea
 Pick an element (from unsorted part) and place in the right pos in sorted part.
+
+## code
+
+```cpp
+class Solution {
+public:
+	vector<int> insertionSort(vector<int>& arr) {
+		// Write your code here
+		int n = arr.size();
+		
+		for(int i=1; i<n; i++){
+			for(int j=i; j>0; j--){
+				if(arr[j-1] > arr[j]){
+					swap(arr[j-1], arr[j]);
+				} else break;
+			}
+		}
+		return arr;
+	}
+};
+```
+
 ## Visualisation
 
 ![[insertion-sort]]
@@ -48,7 +70,6 @@ public static void insertionSortReverse(int arr[]) {
 			else
 				break;
 	printArray(arr);
-
 }
 ```
 

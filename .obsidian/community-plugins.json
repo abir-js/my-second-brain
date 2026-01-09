@@ -3,5 +3,8 @@
   "telegram-sync",
   "omnisearch",
   "text-extractor",
-  "ai-image-analyzer"
+  "ai-image-analyzer",
+  "calendar",
+  "obsidian-autocomplete-plugin",
+  "copilot"
 ]

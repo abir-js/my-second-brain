@@ -9,7 +9,36 @@ status:
 # What is Selection Sort?
 
 ## Idea
-pick the smallest (from unsorted), put it at the beginning.
+
+- take smallest
+- replace with first element
+- do same for rest
+
+## Code with explanation
+
+```cpp
+// take smallent element from an array and put it ar first
+int index = 0;
+for(int i=0; i<n; i++){
+	if(arr[i] < arr[index])
+		index=i;
+}
+swap(arr[0], arr[index]);
+```
+
+```cpp
+// repeat same steps for all elements
+for(int j=0; i<n; j++){
+	int index = j;
+	for(int i=j+1; i<n; i++){     // we are using j+1 instead of j bcoz we dont want to compare an element with itself
+		if(arr[i] < arr[index])
+			index=i;
+	}
+	swap(arr[j], arr[index])
+}
+```
+
+
 
 ## Visualisation
 

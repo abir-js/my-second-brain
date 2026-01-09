@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "98d5aee32271a949",
+        "id": "bf3b124926663026",
         "type": "tabs",
         "children": [
           {
-            "id": "d7952072aceebf23",
+            "id": "6ef1e569490b3ec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "🔗 3 Indexes/DSA.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/graph-based-solution-for-vector-database.md"
               },
-              "icon": "lucide-file",
-              "title": "DSA"
+              "icon": "excalidraw-icon",
+              "title": "graph-based-solution-for-vector-database"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dsa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔗 3 Indexes/ReactJS.md",
+                "file": "Excalidraw/graph-based-solution-for-vector-database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ReactJS"
+              "title": "Backlinks for graph-based-solution-for-vector-database"
             }
           },
           {
@@ -114,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔗 3 Indexes/ReactJS.md",
+                "file": "Excalidraw/graph-based-solution-for-vector-database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ReactJS"
+              "title": "Outgoing links from graph-based-solution-for-vector-database"
             }
           },
           {
@@ -128,9 +126,9 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -143,21 +141,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 2 All Notes/data types in JavaScript.md",
+                "file": "Excalidraw/graph-based-solution-for-vector-database.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of data types in JavaScript"
+              "title": "Outline of graph-based-solution-for-vector-database"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "40f4599fe9cada20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8051ca80a8fb967",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 246.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,46 +185,49 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d7952072aceebf23",
+  "active": "6ef1e569490b3ec4",
   "lastOpenFiles": [
-    "📝 2 All Notes/sum of unique elements.md",
-    "🔗 3 Indexes/MySQL.md",
-    "🔗 3 Indexes/DSA.md",
-    "📝 2 All Notes/rotate array by 1.md",
-    "📝 2 All Notes/rotate array.md",
-    "Excalidraw/rotate-array-by-k.md",
-    "Excalidraw/rotate-array-by-k-reverse.md",
-    "📝 2 All Notes/find missing number in array.md",
-    "📝 2 All Notes/reverse array.md",
-    "📝 2 All Notes/array in cpp.md",
-    "📝 2 All Notes/array in java.md",
-    "📝 2 All Notes/arrays in dsa.md",
-    "📝 2 All Notes/introduction to cpp.md",
-    "📝 2 All Notes/introduction to programming.md",
-    "Excalidraw/Introduction-to-programming.md",
-    "🔗 3 Indexes/Node.js.md",
-    "📝 2 All Notes/FS Module in Node.js - Sync.md",
-    "📝 2 All Notes/express.urlencoded().md",
-    "🔗 3 Indexes/todo.md",
-    "🔗 3 Indexes/JavaScript.md",
-    "📝 2 All Notes/function in js.md",
-    "📝 2 All Notes/closure in js.md",
-    "📝 2 All Notes/lexical scope.md",
-    "📝 2 All Notes/asynchronous code.md",
-    "📝 2 All Notes/this-keyword.md",
-    "📝 2 All Notes/object in js.md",
-    "Pasted image 20251019130829.png",
-    "jdk-jvm-jre.png",
+    "📝 2 All Notes/how recommendation system works.md",
+    "Excalidraw/graph-based-solution-for-vector-database.md",
     "Pasted Image 20251004113724_815.png",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Excalidraw/1d-array-as-recommendation-system.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/what is GenAI.md",
+    "🔗 3 Indexes/DSA.md",
+    "Pasted image 20251019130829.png",
+    "📝 2 All Notes/find first and last position of element in sorted array.md",
+    "📝 2 All Notes/binary search.md",
+    "📝 2 All Notes/2025-09-01.md",
+    "📝 2 All Notes/66. plus one.md",
+    "Excalidraw/Sqrt(x).md",
+    "Excalidraw/island-parameter.md",
+    "📝 2 All Notes/rotate array.md",
+    "Untitled.canvas",
+    "assets/images/jdk-jvm-jre.png",
     "assets/images/arrays-in-js.png",
     "assets/images/tiktoken.png",
     "assets/images/memory-management-in-js-1.png",
     "assets/images/introduction-to-web.png",
     "assets/images/dns.png",
-    "Untitled.canvas",
     "assets/images/datatypes-in-js.png",
     "assets/images/trappting-rainwater-leetcode.png",
     "Untitled 2.canvas",
@@ -223,8 +240,6 @@
     "Recording 20250616162657.m4a",
     "hello.js",
     "📝 2 All Notes/Node JS",
-    "🔗 3 Indexes",
-    "👽 6 Templates",
-    "Events/Blue"
+    "🔗 3 Indexes"
   ]
 }

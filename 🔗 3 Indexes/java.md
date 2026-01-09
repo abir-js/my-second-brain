@@ -7,13 +7,15 @@ tags:
 ## Java
 ### 0. Java Basics
 
-1.  [[What is Java]]
-2. [[What is JDK]]
-3. [[What is JRE]]
-4. [[What is JVM]]
-5. [[JDK JVM JRE summery]]
-6. [[How a JAVA program runs]]
-7. [[basic java code skeleton]]
+1. [[REPL and JShell]]
+
+2.  [[What is Java]]
+3. [[What is JDK]]
+4. [[What is JRE]]
+5. [[What is JVM]]
+6. [[JDK JVM JRE summery]]
+7. [[How a JAVA program runs]]
+8. [[basic java code skeleton]]
 ### 1. Datatypes
 
 1. [[datatypes in java]]
@@ -33,6 +35,14 @@ tags:
 ### 4. Arrays in JAVA
 
 - [[array in java]]
+
+
+
+
+
+
+
+
 
 ## DSA in Java - Apna College
 ### 1. Flowcharts and pseudocode
