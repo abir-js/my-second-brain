@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3b124926663026",
+        "id": "a8579442a130a904",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef1e569490b3ec4",
+            "id": "7dcc181d86fe2d37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 2 All Notes/abc.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "abc"
-            }
-          },
-          {
-            "id": "fe3e0963e6b6d793",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/vector.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vector"
+              "title": "New tab"
             }
           }
         ]
@@ -212,12 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ef1e569490b3ec4",
+  "active": "7dcc181d86fe2d37",
   "lastOpenFiles": [
-    "🔗 3 Indexes/gen-ai.md",
-    "📝 2 All Notes/abc.md",
-    "📝 2 All Notes/how recommendation system works.md",
     "Excalidraw/vector.md",
+    "📝 2 All Notes/abc.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/how recommendation system works.md",
     "Excalidraw/graph-based-solution-for-vector-database.md",
     "Excalidraw/1d-array-as-recommendation-system.md",
     "Pasted Image 20251004113724_815.png",
