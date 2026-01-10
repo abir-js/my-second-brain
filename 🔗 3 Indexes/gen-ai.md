@@ -12,3 +12,5 @@ tags:
 ## 2. Build Recommendation System
 
 - [[how recommendation system works]]
+- [[find distances between two vectors]]
+- 

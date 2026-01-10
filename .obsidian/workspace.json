@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/how recommendation system works.md",
+                "file": "📝 2 All Notes/find distances between two vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how recommendation system works"
+              "title": "find distances between two vectors"
             }
           },
           {
@@ -215,12 +215,13 @@
   },
   "active": "13064fee6435486f",
   "lastOpenFiles": [
-    "📝 2 All Notes/neueal.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/find distances between two vectors.md",
     "📝 2 All Notes/how recommendation system works.md",
+    "📝 2 All Notes/neueal.md",
     "📝 2 All Notes/git and github.md",
     "📝 2 All Notes/General Flow of Backend.md",
     "Excalidraw/vector.md",
-    "🔗 3 Indexes/gen-ai.md",
     "📝 2 All Notes/abc.md",
     "Excalidraw/graph-based-solution-for-vector-database.md",
     "Excalidraw/1d-array-as-recommendation-system.md",
@@ -244,7 +245,6 @@
     "🔗 3 Indexes/DSA.md",
     "Pasted image 20251019130829.png",
     "📝 2 All Notes/find first and last position of element in sorted array.md",
-    "📝 2 All Notes/binary search.md",
     "Untitled.canvas",
     "assets/images/jdk-jvm-jre.png",
     "assets/images/arrays-in-js.png",
