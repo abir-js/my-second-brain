@@ -73,7 +73,11 @@ Netflix movie recommendation system
 
 - Neural networks creates these vectors. This is known as vector embedding.
 
+![neural network](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*_SH7tsNDTkGXWtZb.png)
+
+
 
 
 ---
+
 
