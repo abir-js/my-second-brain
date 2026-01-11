@@ -48,6 +48,8 @@ Practice
 - [[find first and last position of element in sorted array]]
 - [[search insert position]]
 - [[📝 2 All Notes/Sqrt(x)|Sqrt(x)]]
+- [[peak element in mountain array]]
+- 
 
 
 

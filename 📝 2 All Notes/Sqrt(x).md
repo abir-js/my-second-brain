@@ -17,10 +17,12 @@ status: 🟩
 	- ans = mid
 	- start = mid + 1
 
+agar `mid*mid` target se chota ho to isko ans me store karke right me jao. Because we can return 2 for √8
+
 ```cpp
 int mySqrt(int x) {
     // Your code here
-	if(x==0) return 0;
+	if(x<=1) return x;
 	int start = 1, end = x;
 	int ans;
 	while (start <= end) {

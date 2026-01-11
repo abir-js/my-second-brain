@@ -13,27 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/find distances between two vectors.md",
+                "file": "📝 2 All Notes/peak element in mountain array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "find distances between two vectors"
+              "title": "peak element in mountain array"
             }
           },
           {
-            "id": "7dcc181d86fe2d37",
+            "id": "95dd9d1c80a2a617",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/vector.md"
+                "file": "Excalidraw/peak-element-in-mountain-array.md"
               },
               "icon": "excalidraw-icon",
-              "title": "vector"
+              "title": "peak-element-in-mountain-array"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +214,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13064fee6435486f",
+  "active": "95dd9d1c80a2a617",
   "lastOpenFiles": [
+    "📝 2 All Notes/peak element in mountain array.md",
+    "Excalidraw/peak-element-in-mountain-array.md",
+    "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/Sqrt(x).md",
+    "📝 2 All Notes/search insert position.md",
     "🔗 3 Indexes/gen-ai.md",
-    "📝 2 All Notes/find distances between two vectors.md",
     "📝 2 All Notes/how recommendation system works.md",
+    "📝 2 All Notes/find distances between two vectors.md",
     "📝 2 All Notes/neueal.md",
     "📝 2 All Notes/git and github.md",
     "📝 2 All Notes/General Flow of Backend.md",
@@ -237,14 +243,9 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "📝 2 All Notes/what is GenAI.md",
-    "🔗 3 Indexes/DSA.md",
     "Pasted image 20251019130829.png",
-    "📝 2 All Notes/find first and last position of element in sorted array.md",
     "Untitled.canvas",
     "assets/images/jdk-jvm-jre.png",
     "assets/images/arrays-in-js.png",
