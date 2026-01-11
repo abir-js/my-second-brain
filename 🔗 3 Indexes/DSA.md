@@ -49,6 +49,7 @@ Practice
 - [[search insert position]]
 - [[📝 2 All Notes/Sqrt(x)|Sqrt(x)]]
 - [[peak element in mountain array]]
+- [[find minimum in rotated sorted array]]
 - 
 
 
