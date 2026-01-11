@@ -41,8 +41,10 @@ public:
 ```
 
 
+ This method won't work because when the array is like `[10, 50, 40, 30, 20]` then mid will be in `arr[0]`. When it will compare with `arr[i-1]` it will cause error.
 
 
 ![[peak-element-in-mountain-array | 1000]]
 
 ---
+
