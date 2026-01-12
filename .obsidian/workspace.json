@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "minimum-element-in-rotated-sorted-array"
             }
+          },
+          {
+            "id": "7622ac16794ceae4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "381c3308a86579c9",
+  "active": "d6748c453694ecff",
   "lastOpenFiles": [
     "📝 2 All Notes/find minimum in rotated sorted array.md",
     "Excalidraw/minimum-element-in-rotated-sorted-array.md",
