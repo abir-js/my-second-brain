@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "95dd9d1c80a2a617",
+            "id": "381c3308a86579c9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/peak-element-in-mountain-array.md"
+                "file": "Excalidraw/minimum-element-in-rotated-sorted-array.md"
               },
               "icon": "excalidraw-icon",
-              "title": "peak-element-in-mountain-array"
+              "title": "minimum-element-in-rotated-sorted-array"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13064fee6435486f",
+  "active": "381c3308a86579c9",
   "lastOpenFiles": [
-    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/find minimum in rotated sorted array.md",
+    "Excalidraw/minimum-element-in-rotated-sorted-array.md",
+    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/peak element in mountain array.md",
     "📝 2 All Notes/Untitled.base",
     "Excalidraw/peak-element-in-mountain-array.md",
@@ -242,7 +244,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Pasted image 20251019130829.png",
