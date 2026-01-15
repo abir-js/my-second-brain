@@ -59,3 +59,4 @@ Practice
 - [[four sum]]
 - [[pair with given difference]]
 - [[product pair]]
+- [[split array into two equal sum subarrays]]
