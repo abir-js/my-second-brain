@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/four sum.md",
+                "file": "📝 2 All Notes/pair with given difference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "four sum"
+              "title": "pair with given difference"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "four-sum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7f9643c8de56f41",
+  "active": "07f67b9d8e515602",
   "lastOpenFiles": [
+    "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/pair with given difference.md",
     "📝 2 All Notes/four sum.md",
     "Excalidraw/four-sum.md",
-    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/two sum.md",
     "📝 2 All Notes/triplet sum.md",
     "Excalidraw/Drawing 2026-01-14 12.19.58.excalidraw.md",
@@ -247,7 +247,6 @@
     "📝 2 All Notes/Sqrt(x).md",
     "📝 2 All Notes/search insert position.md",
     "📝 2 All Notes/how recommendation system works.md",
-    "📝 2 All Notes/find distances between two vectors.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled.canvas",
