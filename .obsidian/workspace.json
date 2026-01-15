@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/split array into two equal sum subarrays.md",
+                "file": "📝 2 All Notes/how git works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "split array into two equal sum subarrays"
+              "title": "how git works"
             }
           },
           {
-            "id": "fa9a83ab00f5d558",
+            "id": "84f2982b6b3bb785",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/split-array-into-two-equal-sum-subarrays.md"
+                "file": "Excalidraw/Drawing 2026-01-14 12.19.58.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "split-array-into-two-equal-sum-subarrays"
-            }
-          },
-          {
-            "id": "ad091c8597c35a13",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/product-pair.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "product-pair"
+              "title": "Drawing 2026-01-14 12.19.58.excalidraw"
             }
           }
         ]
@@ -228,11 +216,14 @@
   },
   "active": "07f67b9d8e515602",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-14 12.19.58.excalidraw.md",
+    "📝 2 All Notes/how git works.md",
+    "📝 2 All Notes/git and github.md",
+    "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/split array into two equal sum subarrays.md",
     "Excalidraw/split-array-into-two-equal-sum-subarrays.md",
     "📝 2 All Notes/max subarray sum using kadane's algo.md",
     "📝 2 All Notes/max subarray sum.md",
-    "📝 2 All Notes/split array into two equal sum subarrays.md",
-    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/trapping rainwater problem.md",
     "📝 2 All Notes/product pair.md",
     "Excalidraw/product-pair.md",
@@ -241,20 +232,17 @@
     "Excalidraw/four-sum.md",
     "📝 2 All Notes/two sum.md",
     "📝 2 All Notes/triplet sum.md",
-    "Excalidraw/Drawing 2026-01-14 12.19.58.excalidraw.md",
     "Excalidraw/two-sum-using-two-pointer.md",
     "📝 2 All Notes/search in sorted matrix.md",
     "🔗 3 Indexes/java.md",
     "Excalidraw/two-sum-using-binary-search.md",
     "📝 2 All Notes/what is RAG.md",
     "🔗 3 Indexes/gen-ai.md",
-    "📝 2 All Notes/how git works.md",
     "Excalidraw/how-git-works.md",
     "Pasted Image 20251004113724_815.png",
     "Pasted image 20251019130829.png",
     "assets/images/git-init.png",
     "Pasted image 20260114115643.png",
-    "📝 2 All Notes/git and github.md",
     "📝 2 All Notes/what is VCS.md",
     "👽 6 Templates/Sub Notes.md",
     "📝 2 All Notes/what is git and why do we need it.md",

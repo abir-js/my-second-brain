@@ -44,6 +44,9 @@ git commit -m "message"
 git log
 ```
 
+```sh
+git log --oneline
+```
 ## See differences between two commits
 
 ```sh
@@ -55,5 +58,7 @@ git diff --oneline
 ```
 
 
+
+![[Drawing 2026-01-14 12.19.58.excalidraw]]
 
 ---
