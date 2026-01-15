@@ -23,4 +23,30 @@ status: 🟩
 	- Explanation:
 	- Pair (-10, 20) have an absolute difference of 30.
 
+## Two Pointer approach
+
+- Normal one from front and back wont work because for both `i++` and `j--` the difference value will decrease
+
+### Two pointer from front
+
+- start, end = 0 because for single element, it would start from same element and their difference will be 0. 
+
+```cpp
+int pairWithGivenDifference(vector<int>& arr, int diff) {	
+	// Your code here	
+	sort(arr.begin(), arr.end());	
+	int n = arr.size();		  	
+	int start = 0, end = 0;	
+	while(start <= end && end < n){	
+		if(arr[end] - arr[start] == diff)	
+			return 1;	
+		else if(arr[end] - arr[start] < diff)	
+			end++;	
+		else	
+			start++;	
+	}	
+	return 0;
+}
+```
+
 ---

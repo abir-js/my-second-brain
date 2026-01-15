@@ -58,3 +58,4 @@ Practice
 - [[triplet sum]]
 - [[four sum]]
 - [[pair with given difference]]
+- [[product pair]]
