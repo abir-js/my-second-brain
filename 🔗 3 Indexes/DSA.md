@@ -55,4 +55,4 @@ Practice
 ## Two Pointers
 
 - [[two sum]]
-- 
+- [[triplet sum]]

@@ -9,7 +9,9 @@ status: 🟩
 2026-01-15        12:08
 
 ---
-# Two Sum?
+# Two Sum II?
+
+- array is sorted.
 
 ## Method 1 - Brute force
 
