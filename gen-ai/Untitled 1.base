@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: tags
+      direction: ASC
+    sort:
+      - property: file.tags
+        direction: ASC
