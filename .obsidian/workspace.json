@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/what is programming.md",
+                "file": "🔗 3 Indexes/python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is programming"
+              "title": "python"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "48d505d0e597cf1e",
   "lastOpenFiles": [
-    "🔗 3 Indexes/python.md",
     "📝 2 All Notes/what is programming.md",
+    "🔗 3 Indexes/python.md",
     "🔗 3 Indexes/gen-ai.md",
     "📝 2 All Notes/what is RAG.md",
     "📝 2 All Notes/how git works.md",
