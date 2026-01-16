@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "DSA"
             }
+          },
+          {
+            "id": "fcb892a3c1fed692",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/vector.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vector"
+            }
           }
         ]
       }
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🔗 3 Indexes/gen-ai.md",
+            "file": "📝 2 All Notes/Time and Space Complexity.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,8 +181,22 @@
   },
   "active": "5e8d438af36b623d",
   "lastOpenFiles": [
-    "📝 2 All Notes/find minimum in rotated sorted array.md",
+    "📝 2 All Notes/what is programming.md",
+    "🔗 3 Indexes/python.md",
+    "Excalidraw/vector.md",
+    "📝 2 All Notes/how recommendation system works.md",
+    "Excalidraw/graph-based-solution-for-vector-database.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/Time and Space Complexity.md",
     "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/introduction to cpp.md",
+    "📝 2 All Notes/ultimate mysql notes.md",
+    "🔗 3 Indexes/MySQL.md",
+    "📝 2 All Notes/sql vs nosql.md",
+    "📝 2 All Notes/what is DBMS.md",
+    "📝 2 All Notes/what is database.md",
+    "📝 2 All Notes/Why do we need database.md",
+    "📝 2 All Notes/find minimum in rotated sorted array.md",
     "📝 2 All Notes/peak element in mountain array.md",
     "📝 2 All Notes/Sqrt(x).md",
     "Excalidraw/peak-element-in-mountain-array.md",
@@ -180,18 +206,6 @@
     "📝 2 All Notes/import-export in react.md",
     "📝 2 All Notes/what is jsx.md",
     "📝 2 All Notes/what are components in react.md",
-    "📝 2 All Notes/what is React.md",
-    "📝 2 All Notes/what is redux.md",
-    "📝 2 All Notes/how recommendation system works.md",
-    "Excalidraw/vector.md",
-    "📝 2 All Notes/2026-01-10.md",
-    "Excalidraw/how-internet-works.md",
-    "📝 2 All Notes/neueal.md",
-    "📝 2 All Notes/selection sort.md",
-    "📝 2 All Notes/Time and Space Complexity.md",
-    "🔗 3 Indexes/gen-ai.md",
-    "🔗 3 Indexes/java.md",
-    "📝 2 All Notes/What is Java.md",
-    "📝 2 All Notes/what is GenAI.md"
+    "📝 2 All Notes/what is React.md"
   ]
 }

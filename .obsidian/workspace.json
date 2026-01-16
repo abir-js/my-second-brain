@@ -32,8 +32,23 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-01-14 12.19.58.excalidraw"
             }
+          },
+          {
+            "id": "48d505d0e597cf1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 2 All Notes/what is programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is programming"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,10 +228,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07f67b9d8e515602",
+  "active": "48d505d0e597cf1e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-14 12.19.58.excalidraw.md",
+    "🔗 3 Indexes/python.md",
+    "📝 2 All Notes/what is programming.md",
+    "🔗 3 Indexes/gen-ai.md",
+    "📝 2 All Notes/what is RAG.md",
     "📝 2 All Notes/how git works.md",
+    "Excalidraw/Drawing 2026-01-14 12.19.58.excalidraw.md",
     "📝 2 All Notes/git and github.md",
     "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/split array into two equal sum subarrays.md",
@@ -236,16 +254,12 @@
     "📝 2 All Notes/search in sorted matrix.md",
     "🔗 3 Indexes/java.md",
     "Excalidraw/two-sum-using-binary-search.md",
-    "📝 2 All Notes/what is RAG.md",
-    "🔗 3 Indexes/gen-ai.md",
     "Excalidraw/how-git-works.md",
     "Pasted Image 20251004113724_815.png",
     "Pasted image 20251019130829.png",
     "assets/images/git-init.png",
     "Pasted image 20260114115643.png",
     "📝 2 All Notes/what is VCS.md",
-    "👽 6 Templates/Sub Notes.md",
-    "📝 2 All Notes/what is git and why do we need it.md",
     "📝 2 All Notes/Untitled.base",
     "copilot/copilot-custom-prompts",
     "copilot",

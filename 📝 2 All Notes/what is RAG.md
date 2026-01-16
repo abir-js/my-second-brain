@@ -24,7 +24,7 @@ status: 🟩
 }
 ```
 
-- We use these id to exactly search for any vector to identify, update or delete it.
+- We use these id to exactly search (not semantic search) for any vector to identify, update or delete it.
 
 ---
 ## What is RAG?
