@@ -14,4 +14,5 @@ tags:
 ## How git works and create your own git
 
 - [[how git works]]
+- [[internal folder structure of git]]
 - 
