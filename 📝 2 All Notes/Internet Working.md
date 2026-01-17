@@ -2,7 +2,7 @@
 tags:
   - frontend
   - internet
-status:
+status: 🟩
 ---
 
 2025-09-01        19:48

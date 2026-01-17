@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/2026-01-17.md",
+                "file": "📝 2 All Notes/Internet Working.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-17"
+              "title": "Internet Working"
             }
           }
         ]
@@ -203,12 +203,12 @@
   },
   "active": "020c6139485e83b3",
   "lastOpenFiles": [
-    "📝 2 All Notes/how git works.md",
     "📝 2 All Notes/2026-01-17.md",
-    "Excalidraw/git-reset-vs-git-revert.md",
     "📝 2 All Notes/Internet Working.md",
-    "Excalidraw/Drawing 2026-01-16 14.04.47.excalidraw.md",
+    "📝 2 All Notes/how git works.md",
     "📝 2 All Notes/git and github.md",
+    "Excalidraw/git-reset-vs-git-revert.md",
+    "Excalidraw/Drawing 2026-01-16 14.04.47.excalidraw.md",
     "📝 2 All Notes/internal folder structure of git.md",
     "Excalidraw/remove-bug-using-git.md",
     "Excalidraw/git-initialization.md",
