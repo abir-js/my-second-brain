@@ -10,7 +10,7 @@ status:
 ---
 # What is Title?
 
-![[how-internet-works]]
+![[how-internet-works | 1000]]
 
 ## DNS
 

@@ -33,8 +33,7 @@
               "title": "git-reset-vs-git-revert"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8a83a1808a41c90",
+  "active": "020c6139485e83b3",
   "lastOpenFiles": [
+    "Excalidraw/git-reset-vs-git-revert.md",
+    "📝 2 All Notes/Internet Working.md",
     "📝 2 All Notes/how git works.md",
     "Excalidraw/Drawing 2026-01-16 14.04.47.excalidraw.md",
-    "Excalidraw/git-reset-vs-git-revert.md",
     "📝 2 All Notes/git and github.md",
     "📝 2 All Notes/internal folder structure of git.md",
     "Excalidraw/remove-bug-using-git.md",
@@ -245,7 +245,6 @@
     "📝 2 All Notes/two sum.md",
     "📝 2 All Notes/triplet sum.md",
     "Excalidraw/two-sum-using-two-pointer.md",
-    "📝 2 All Notes/search in sorted matrix.md",
     "Pasted Image 20251004113724_815.png",
     "Pasted image 20251019130829.png",
     "assets/images/git-init.png",
