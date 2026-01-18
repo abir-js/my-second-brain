@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "2026-01-17"
             }
+          },
+          {
+            "id": "c8e7b3ffcb59c887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 2 All Notes/product pair.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "product pair"
+            }
+          },
+          {
+            "id": "85613db79bba49f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/product-pair.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "product-pair"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +228,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "020c6139485e83b3",
+  "active": "85613db79bba49f7",
   "lastOpenFiles": [
-    "📝 2 All Notes/Internet Working.md",
+    "📝 2 All Notes/product pair.md",
+    "Excalidraw/product-pair.md",
+    "Excalidraw/Drawing 2026-01-19 01.04.05.excalidraw.md",
+    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/2026-01-17.md",
+    "📝 2 All Notes/Internet Working.md",
     "📝 2 All Notes/how git works.md",
     "📝 2 All Notes/git and github.md",
     "Excalidraw/git-reset-vs-git-revert.md",
@@ -218,7 +249,6 @@
     "gen-ai/Untitled 1.base",
     "gen-ai",
     "📝 2 All Notes/Untitled 1.base",
-    "🔗 3 Indexes/DSA.md",
     "🔗 3 Indexes/python.md",
     "📝 2 All Notes/what is programming.md",
     "📝 2 All Notes/split array into two equal sum subarrays.md",
@@ -226,13 +256,10 @@
     "📝 2 All Notes/max subarray sum using kadane's algo.md",
     "📝 2 All Notes/max subarray sum.md",
     "📝 2 All Notes/trapping rainwater problem.md",
-    "📝 2 All Notes/product pair.md",
-    "Excalidraw/product-pair.md",
     "📝 2 All Notes/pair with given difference.md",
     "📝 2 All Notes/four sum.md",
     "Excalidraw/four-sum.md",
     "📝 2 All Notes/two sum.md",
-    "📝 2 All Notes/triplet sum.md",
     "Pasted Image 20251004113724_815.png",
     "Pasted image 20251019130829.png",
     "assets/images/git-init.png",

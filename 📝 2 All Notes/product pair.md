@@ -30,6 +30,29 @@ status: 🟩
 	- -10^8 ≤ arr[i] ≤ 10^8
 	- -10^18 ≤ target ≤ 10^18
 
+## Solutions
+
+### 1. Brute force
+
+### 2. Binary search
+
+1. sort array
+2. loop through each element and apply binary search
+
+- Time complexity
+	- O(n logn)
+
+### 3. 
+
+1. sort the array
+2. if target is positive.
+	1. either both will be positive
+	2. or both will be negative
+3. take the first positive number as mid
+4. 
+
+![[product-pair | 1000]]
+
 ```cpp
 
 ```
