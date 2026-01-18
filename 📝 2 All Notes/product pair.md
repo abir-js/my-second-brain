@@ -45,11 +45,16 @@ status: 🟩
 ### 3. 
 
 1. sort the array
-2. if target is positive.
-	1. either both will be positive
-	2. or both will be negative
-3. take the first positive number as mid
-4. 
+2. mid = last negative number
+3. if target is positive.
+	1. both numbers will be positive
+		1. apply two pointer
+	2. both numbers will be negative
+		1. apply two pointer
+4. if target is negative
+	1. start = 0, end = mid + 1
+	2. to increase, move start
+	3. to decrease move end
 
 ![[product-pair | 1000]]
 

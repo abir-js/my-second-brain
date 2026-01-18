@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,13 +228,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85613db79bba49f7",
+  "active": "c8e7b3ffcb59c887",
   "lastOpenFiles": [
-    "📝 2 All Notes/product pair.md",
     "Excalidraw/product-pair.md",
+    "📝 2 All Notes/product pair.md",
+    "📝 2 All Notes/2026-01-17.md",
     "Excalidraw/Drawing 2026-01-19 01.04.05.excalidraw.md",
     "🔗 3 Indexes/DSA.md",
-    "📝 2 All Notes/2026-01-17.md",
     "📝 2 All Notes/Internet Working.md",
     "📝 2 All Notes/how git works.md",
     "📝 2 All Notes/git and github.md",
