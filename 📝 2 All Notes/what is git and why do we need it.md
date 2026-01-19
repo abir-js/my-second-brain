@@ -26,13 +26,16 @@ status: 🟩
 
 - Suppose we are creating a project and it grows overtime.
 - Taking help from another person for a feature.
-- Use a pen-drive 
+- Use a pen-drive.
+- Give them pendrive, they push their code and gives you back.
+- They again takes pendrive and updates the code.
+- You don't know which part got updated. **No tracking**
 
 #### Problems: 
 
 1. Syncing problem, at a time single developer can work.
 2. No collaboration.
-3. 2 different repo exists.
+3. If someone changes their local code, 2 different repo exists.
 4. with more difficult it becomes more confusing.
 
 ---
@@ -43,7 +46,7 @@ status: 🟩
 
 #### Problem
 
-- Still o collaboration
+- Still no collaboration, multiple people cant change at a same time.
 
 ---
 
