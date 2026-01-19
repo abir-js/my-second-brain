@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f86fd31ec3bc1713",
+  "active": "e9dd250683b8587f",
   "lastOpenFiles": [
+    "Excalidraw/split-array-into-two-equal-sum-subarrays.md",
     "📝 2 All Notes/split array into two equal sum subarrays.md",
     "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/product pair.md",
@@ -253,7 +254,6 @@
     "📝 2 All Notes/Untitled 1.base",
     "🔗 3 Indexes/python.md",
     "📝 2 All Notes/what is programming.md",
-    "Excalidraw/split-array-into-two-equal-sum-subarrays.md",
     "📝 2 All Notes/max subarray sum using kadane's algo.md",
     "📝 2 All Notes/max subarray sum.md",
     "📝 2 All Notes/trapping rainwater problem.md",
