@@ -13,17 +13,17 @@ status: 🟩
 
 **Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.**
 
-![[trapping-rainwater]]
+![[trapping-rainwater | 1000]]
 
 `height = [4, 2, 0, 6, 3, 2, 5]`
 
 
-![[no-of-bars-in-rainwater-problem]]
+![[no-of-bars-in-rainwater-problem | 1000]]
 
 
 *water stored on each bar = minimum (height of left tallest bar, height of right tallest bar) - bar height*
 
-![[trapping-rainwater-solution]]
+![[trapping-rainwater-solution | 1000]]
 
 
 ## How to solve using code

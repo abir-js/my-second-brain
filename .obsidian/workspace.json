@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/max subarray sum.md",
+                "file": "📝 2 All Notes/trapping rainwater problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "max subarray sum"
+              "title": "trapping rainwater problem"
             }
           },
           {
@@ -215,9 +215,10 @@
   },
   "active": "e9dd250683b8587f",
   "lastOpenFiles": [
-    "Excalidraw/max-subarray-sum.md",
-    "📝 2 All Notes/max subarray sum.md",
     "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/trapping rainwater problem.md",
+    "📝 2 All Notes/max subarray sum.md",
+    "Excalidraw/max-subarray-sum.md",
     "📝 2 All Notes/maximum difference between two elements.md",
     "📝 2 All Notes/what is RAG.sync-conflict-20260119-211251-H6PXT7D.md",
     "📝 2 All Notes/equal sums.md",
@@ -240,7 +241,6 @@
     "Excalidraw/Drawing 2026-01-19 01.04.05.excalidraw.md",
     "📝 2 All Notes/Internet Working.md",
     "Excalidraw/git-reset-vs-git-revert.md",
-    "Excalidraw/Drawing 2026-01-16 14.04.47.excalidraw.md",
     "📝 2 All Notes/Untitled 2.base",
     "gen-ai/Untitled 1.base",
     "gen-ai",

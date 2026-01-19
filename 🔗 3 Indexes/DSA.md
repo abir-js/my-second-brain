@@ -72,4 +72,10 @@ Practice
 - [[maximum difference between two elements]]
 - [[max subarray sum using kadane's algo]]
 - [[max subarray sum]]
-- 
+- [[trapping rainwater problem]]
+
+
+
+## Important
+
+- [[trapping rainwater problem]]
