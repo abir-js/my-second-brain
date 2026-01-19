@@ -41,5 +41,31 @@ int maxDiff(vector<int> &arr) {
 
 ![[maximum-difference-between-two-elements | 1000]]
 
+### 2. Solution 2
+
+- traverse through array and maintain smallest element
+- on each iteration calculate `arr[i] - smallest`
+- take the largest difference
+
+```cpp
+int maxDiff(vector<int> &arr) {
+	// Your code here
+	int n = arr.size();
+	int maxDiff = -1;
+	if(n == 1)
+		return -1;
+	
+	int minValue = INT_MAX;
+	for(int i=0; i<n; i++){
+		if(arr[i] < minValue)
+			minValue = arr[i];
+		if(minValue == arr[i])
+			continue;
+		if(arr[i] - minValue > maxDiff)
+			maxDiff = arr[i] - minValue;
+	}
+	return maxDiff;
+}
+```
 
 ---
