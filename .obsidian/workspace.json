@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "08903cc328cce230",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-19 11.12.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-19 11.12.43.excalidraw"
+            }
+          },
+          {
             "id": "2a507b2b28f6b193",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "prefix-and-suffix-sum"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9dd250683b8587f",
+  "active": "08903cc328cce230",
   "lastOpenFiles": [
-    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/equal sums.md",
+    "Excalidraw/Drawing 2026-01-19 11.12.43.excalidraw.md",
+    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/prefix sum and suffix sum arrays.md",
     "Excalidraw/prefix-and-suffix-sum.md",
     "📝 2 All Notes/split array into two equal sum subarrays.md",
@@ -244,7 +258,6 @@
     "📝 2 All Notes/what is programming.md",
     "📝 2 All Notes/max subarray sum using kadane's algo.md",
     "📝 2 All Notes/max subarray sum.md",
-    "📝 2 All Notes/trapping rainwater problem.md",
     "Pasted Image 20251004113724_815.png",
     "Pasted image 20251019130829.png",
     "assets/images/git-init.png",
