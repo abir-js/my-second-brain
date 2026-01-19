@@ -68,4 +68,8 @@ int maxDiff(vector<int> &arr) {
 }
 ```
 
+### 3. Suffix max
+
+
+
 ---

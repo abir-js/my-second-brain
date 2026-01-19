@@ -31,6 +31,12 @@ status: 🟩
 
 - Retrieval Augmented Generation
 
+For creating any personalised chatbot for DSA instructor, we need to five it full context of chat. 
 
+### problem with this method
+
+- more tokens needed to send whole chat.
+
+![[Drawing 2026-01-16 14.04.47.excalidraw | 1000]]
 
 ---
