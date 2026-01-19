@@ -9,6 +9,19 @@ status: 🟩
 ---
 ## Why Git?
 
+- As a coder we write code. There problem comes when out code grows, complexity increases, line of code.
+- Managing it becomes difficult.
+	- backup
+		- backup can be easily done using any drive like Mega etc.
+	- tracking
+		- for example when we use google docs, it maintains history.
+		- who changes, when changes, what get changed
+			- we can easily go back to pervious versions.
+		- So we also need tracking in code.
+- for multiple developers collaboration
+	- history management - manage history of local code
+		- VCS(version control system)
+
 ### 1. Pendrive approach
 
 - Suppose we are creating a project and it grows overtime.
@@ -37,7 +50,7 @@ status: 🟩
 ### 3. A central code tracker server
 
 - Now instead of pendrive, we will treat the server as the single source of truth.
-- We are installing our [[#2. Code tracking system | code tracking system]] on our server
+- We are installing our code tracking system on our server
 - Everyone can work on same project at a same time.
 
 ---
