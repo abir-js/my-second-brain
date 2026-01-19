@@ -40,7 +40,10 @@ ls
 	4. pack
 	5. info
 7. config          
-8. index           
+8. index(file)
+	1. `cat index`
+		1. returns in zipped format
+		2. stores which files to track.
 9. refs
 	1. heads
 		1. main (branch name)

@@ -55,6 +55,10 @@ git log --oneline
 ## Git status
 
 ```sh
+cat INDEX
+```
+- good way is ↓
+```sh
 git status
 ```
 
