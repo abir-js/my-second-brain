@@ -45,8 +45,7 @@
               "title": "prefix-and-suffix-sum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08903cc328cce230",
+  "active": "e9dd250683b8587f",
   "lastOpenFiles": [
-    "📝 2 All Notes/equal sums.md",
     "Excalidraw/equal-sums.md",
+    "📝 2 All Notes/equal sums.md",
     "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/prefix sum and suffix sum arrays.md",
     "Excalidraw/prefix-and-suffix-sum.md",
