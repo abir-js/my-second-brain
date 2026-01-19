@@ -11,6 +11,6 @@ status: 🟩
 ---
 # What is Title?
 
-- 
+![[equal-sums | 1000]]
 
 ---

@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-19 11.12.43.excalidraw.md"
+                "file": "Excalidraw/equal-sums.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-19 11.12.43.excalidraw"
+              "title": "equal-sums"
             }
           },
           {
@@ -229,7 +229,7 @@
   "active": "08903cc328cce230",
   "lastOpenFiles": [
     "📝 2 All Notes/equal sums.md",
-    "Excalidraw/Drawing 2026-01-19 11.12.43.excalidraw.md",
+    "Excalidraw/equal-sums.md",
     "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/prefix sum and suffix sum arrays.md",
     "Excalidraw/prefix-and-suffix-sum.md",
