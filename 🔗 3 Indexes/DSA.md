@@ -63,4 +63,10 @@ Practice
 - [[four sum]]
 - [[pair with given difference]]
 - [[product pair]]
+
+## Prefix & Suffix Sum
+
 - [[split array into two equal sum subarrays]]
+- [[prefix sum and suffix sum arrays]]
+- [[equal sums]]
+- 

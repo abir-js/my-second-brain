@@ -8,47 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8e7b3ffcb59c887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 2 All Notes/linear search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linear search"
-            }
-          },
-          {
             "id": "e9dd250683b8587f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/split array into two equal sum subarrays.md",
+                "file": "📝 2 All Notes/equal sums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "split array into two equal sum subarrays"
+              "title": "equal sums"
             }
           },
           {
-            "id": "f86fd31ec3bc1713",
+            "id": "2a507b2b28f6b193",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/split-array-into-two-equal-sum-subarrays.md"
+                "file": "Excalidraw/prefix-and-suffix-sum.md"
               },
               "icon": "excalidraw-icon",
-              "title": "split-array-into-two-equal-sum-subarrays"
+              "title": "prefix-and-suffix-sum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,9 +215,12 @@
   },
   "active": "e9dd250683b8587f",
   "lastOpenFiles": [
-    "Excalidraw/split-array-into-two-equal-sum-subarrays.md",
-    "📝 2 All Notes/split array into two equal sum subarrays.md",
     "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/equal sums.md",
+    "📝 2 All Notes/prefix sum and suffix sum arrays.md",
+    "Excalidraw/prefix-and-suffix-sum.md",
+    "📝 2 All Notes/split array into two equal sum subarrays.md",
+    "Excalidraw/split-array-into-two-equal-sum-subarrays.md",
     "📝 2 All Notes/product pair.md",
     "📝 2 All Notes/linear search.md",
     "Excalidraw/product-pair.md",
@@ -257,9 +245,6 @@
     "📝 2 All Notes/max subarray sum using kadane's algo.md",
     "📝 2 All Notes/max subarray sum.md",
     "📝 2 All Notes/trapping rainwater problem.md",
-    "📝 2 All Notes/pair with given difference.md",
-    "📝 2 All Notes/four sum.md",
-    "Excalidraw/four-sum.md",
     "Pasted Image 20251004113724_815.png",
     "Pasted image 20251019130829.png",
     "assets/images/git-init.png",
