@@ -42,6 +42,8 @@ Practice
 ### 3. Insertion S0rt
 - [[insertion sort]]
 
+## Linear Search
+
 ## Binary Search
 
 - [[binary search]]
