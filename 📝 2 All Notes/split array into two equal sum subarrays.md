@@ -11,7 +11,14 @@ status:
 ---
 # What is Title?
 
-![[split-array-into-two-equal-sum-subarrays]]
+## Solution
+
+### Solution 1:
+
+- calculate half of sum of array.
+- 
+
+![[split-array-into-two-equal-sum-subarrays | 1000]]
 
 
 ---
