@@ -69,4 +69,7 @@ Practice
 - [[split array into two equal sum subarrays]]
 - [[prefix sum and suffix sum arrays]]
 - [[equal sums]]
+- [[maximum difference between two elements]]
+- [[max subarray sum using kadane's algo]]
+- [[max subarray sum]]
 - 
