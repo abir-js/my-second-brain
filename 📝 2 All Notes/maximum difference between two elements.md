@@ -39,13 +39,44 @@ int maxDiff(vector<int> &arr) {
 }
 ```
 
+### 2. Suffix max
+
 ![[maximum-difference-between-two-elements | 1000]]
 
-### 2. Solution 2
+```cpp
+int maxDiff(vector<int> &arr) {
+    // Your code here
+    int n = arr.size();
+
+	vector<int> suffixMax(n, 0);
+	
+	// last element would be same
+	suffixMax[n-1] = arr[n-1];
+	
+	// create suffix max array
+	for(int i=n-2; i>=0; i--){
+		suffixMax[i] = max(arr[i], suffixMax[i+1]);
+	}
+
+	// take biggest difference
+	int maxDiff = -1;
+	for(int i=0; i<n-1; i++){
+		if(suffixMax[i+1] > arr[i])
+			if(suffixMax[i+1] - arr[i] > maxDiff)
+				maxDiff = suffixMax[i+1] - arr[i];
+	}
+
+	return maxDiff;
+}
+```
+
+### 3. Solution 2
 
 - traverse through array and maintain smallest element
 - on each iteration calculate `arr[i] - smallest`
-- take the largest difference
+- take the largest difference.
+
+
 
 ```cpp
 int maxDiff(vector<int> &arr) {
@@ -68,7 +99,7 @@ int maxDiff(vector<int> &arr) {
 }
 ```
 
-### 3. Suffix max
+
 
 
 
