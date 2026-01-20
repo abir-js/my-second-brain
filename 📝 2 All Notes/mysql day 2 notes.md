@@ -1,18 +1,13 @@
 ---
 tags:
   - mysql
-status:
+status: 🟩
 ---
 
 2025-07-20        21:16
 
 ---
-
-
-
 # **MySQL Notes for `users` Table (With Examples & Quizzes)**
-
-
 
 ## **1. Table Setup**
 
@@ -201,8 +196,6 @@ DELETE FROM users WHERE email = 'raj@example.com';
 ```
 
 ---
-
-
 
 # **Practice Quiz (10 Questions)**
 

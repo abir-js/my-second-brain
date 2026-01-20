@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/ultimate mysql notes.md",
+                "file": "📝 2 All Notes/mysql day 2 notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ultimate mysql notes"
+              "title": "mysql day 2 notes"
             }
           }
         ],
@@ -233,7 +233,10 @@
   "active": "e67672fc6c8e598b",
   "lastOpenFiles": [
     "🔗 3 Indexes/MySQL.md",
+    "📝 2 All Notes/mysql day 1 notes.md",
+    "📝 2 All Notes/mysql day 2 notes.md",
     "📝 2 All Notes/what is MySQL.md",
+    "📝 2 All Notes/ultimate mysql notes.md",
     "📝 2 All Notes/what is DBMS.md",
     "📝 2 All Notes/what is database.md",
     "📝 2 All Notes/Why do we need database.md",
@@ -255,9 +258,6 @@
     "📝 2 All Notes/what is RAG.sync-conflict-20260119-211251-H6PXT7D.md",
     "📝 2 All Notes/equal sums.md",
     "📝 2 All Notes/how git works.md",
-    "📝 2 All Notes/internal folder structure of git.md",
-    "📝 2 All Notes/what is VCS.md",
-    "📝 2 All Notes/split array into two equal sum subarrays.md",
     "📝 2 All Notes/Untitled 2.base",
     "gen-ai/Untitled 1.base",
     "gen-ai",
