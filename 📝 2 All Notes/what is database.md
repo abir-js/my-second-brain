@@ -10,12 +10,8 @@ status: 🟩
 
 - Database is an organized collection of data stored electronically, allowing users and applications to easily access, update and manipulate information.
 	
-- It is typically stored and managed using specialized software called a database management system ([[what is DBMS || DBMS]] )
+- It is typically stored and managed using specialised software called a database management system ([[what is DBMS || DBMS]] )
 
 
----
-## Related topics: 
-
-- 
 
 ---

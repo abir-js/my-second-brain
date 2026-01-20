@@ -11,17 +11,12 @@ status: 🟩
 - maintain
 - scale
 - team friendly
-- hard to serve
+- hard to serve to user
 
 ## Why not excel?
 
  - Limited storage
  - slow
- - unoptimized
-
----
-## Related topics: 
-
-- 
+ - unoptimised
 
 ---

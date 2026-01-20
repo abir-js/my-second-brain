@@ -3,7 +3,54 @@ tags:
   - index
 ---
 ---
+# MySQL backend course
 
+### Day 5 - Database
+
+1. [[Why do we need database]]
+2. [[what is database]]
+3. [[what is DBMS]]
+4. [[sql vs nosql]]
+5. [[what is MySQL]]
+6. [[ultimate mysql notes]]
+### Day 6 - MySQL day 2
+
+- [[mysql day 2 notes]]
+
+1. [[is and is not operator in MySQL]]
+2. [[between operator in mysql]]
+3. [[in operator in mysql]]
+4. [[order by clause in mysql]]
+5. [[pattern matching (like) in mysql]]
+6. [[aggregate functions in mysql - count, sum, avg, min, max]]
+	1. [[aggregate functions in mysql - count, sum, avg, min, max#1. **COUNT()**| count in mysql]]
+	2. [[aggregate functions in mysql - count, sum, avg, min, max#4. **MIN() / MAX()**| min/max in mysql]]
+7. [[limit in mysql]]
+8. 
+
+### Day 6 - MySQL day 3
+
+- [[mysql day 3 notes]]
+- InnoDB - storage engine of MySQL
+
+1. [[constraints in mysql]]
+2. [[what is primary key in mysql]]
+3. [[what is composite key in mysql]]
+4. [[what is foreign key in mysql]]
+5. [[transaction and commit in mysql]]
+
+### Day 7 - MySQL day 4
+
+1. [[joins in mysql]]
+2. [[unions in mysql]]
+3. [[subqueries in mysql]]
+4. [[stored procedure in mysql]]
+
+### Day 8 - MySQL day 5
+
+1. [[views, indexes, triggers in mysql]]
+
+---
 # All Queries
 
  - [[what is MySQL]]
@@ -54,6 +101,8 @@ tags:
 - [[delete a row or user's data in mysql]]
 - [[delete all data from table in mysql]]
 
+---
+
 ## 5. Primary key
 
 - [[what is primary key in mysql]]
@@ -65,50 +114,3 @@ tags:
 
 - [[update table data in mysql]]
 
-
-# MySQL backend course
-
-### Day 5 - Database
-
-1. [[Why do we need database]]
-2. [[what is database]]
-3. [[what is DBMS]]
-4. [[sql vs nosql]]
-5. [[what is MySQL]]
-6. [[ultimate mysql notes]]
-### Day 6 - MySQL day 2
-
-- [[mysql day 2 notes]]
-
-1. [[is and is not operator in MySQL]]
-2. [[between operator in mysql]]
-3. [[in operator in mysql]]
-4. [[order by clause in mysql]]
-5. [[pattern matching (like) in mysql]]
-6. [[aggregate functions in mysql - count, sum, avg, min, max]]
-	1. [[aggregate functions in mysql - count, sum, avg, min, max#1. **COUNT()**| count in mysql]]
-	2. [[aggregate functions in mysql - count, sum, avg, min, max#4. **MIN() / MAX()**| min/max in mysql]]
-7. [[limit in mysql]]
-8. 
-
-### Day 6 - MySQL day 3
-
-- [[mysql day 3 notes]]
-- InnoDB - storage engine of MySQL
-
-1. [[constraints in mysql]]
-2. [[what is primary key in mysql]]
-3. [[what is composite key in mysql]]
-4. [[what is foreign key in mysql]]
-5. [[transaction and commit in mysql]]
-
-### Day 7 - MySQL day 4
-
-1. [[joins in mysql]]
-2. [[unions in mysql]]
-3. [[subqueries in mysql]]
-4. [[stored procedure in mysql]]
-
-### Day 8 - MySQL day 5
-
-1. [[views, indexes, triggers in mysql]]
