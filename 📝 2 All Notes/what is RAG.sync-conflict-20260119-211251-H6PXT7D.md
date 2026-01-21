@@ -37,6 +37,6 @@ For creating any personalised chatbot for DSA instructor, we need to five it ful
 
 - more tokens needed to send whole chat.
 
-![[Drawing 2026-01-16 14.04.47.excalidraw | 1000]]
+![[Excalidraw/rag| 1000]]
 
 ---
