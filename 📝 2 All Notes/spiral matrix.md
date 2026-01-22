@@ -3,7 +3,7 @@ tags:
   - array
   - java
   - dsa
-status:
+status: 🟩
 ---
 
 2025-09-07        18:37
@@ -11,6 +11,6 @@ status:
 ---
 # What is Title?
 
-![[spiral-matrix]]
+![[spiral-matrix | 1000]]
 
 ---
