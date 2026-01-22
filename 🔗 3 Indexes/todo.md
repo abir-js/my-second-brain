@@ -1,4 +1,5 @@
 
+# 2025
 ## August
 
 - [[2025-08-06]]
@@ -32,3 +33,8 @@
 - [ ] Authentication
 - [ ] Node js
 - [ ] JS
+
+# 2026
+
+## Jan
+
