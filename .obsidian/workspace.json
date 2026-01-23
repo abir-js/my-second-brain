@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "what is RAG"
             }
+          },
+          {
+            "id": "da7dac0a808a962d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/indexing-and-query-phase.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "indexing-and-query-phase"
+            }
           }
         ],
         "currentTab": 1
@@ -218,9 +230,10 @@
   },
   "active": "f42d8ca133c7b1b4",
   "lastOpenFiles": [
-    "Excalidraw/rag.md",
+    "Excalidraw/indexing-and-query-phase.md",
     "📝 2 All Notes/what is RAG.md",
     "🔗 3 Indexes/gen-ai.md",
+    "Excalidraw/rag.md",
     "🔗 3 Indexes/todo.md",
     "📝 2 All Notes/2026-01-21.md",
     "📝 2 All Notes/2026-01-23.md",
@@ -251,7 +264,6 @@
     "Excalidraw/Drawing 2025-09-11 14.54.11.excalidraw.md",
     "Excalidraw/Drawing 2026-01-08 17.01.20.excalidraw.md",
     "Excalidraw/Drawing 2026-01-19 01.04.05.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-21 11.23.33.excalidraw.md",
     "gen-ai",
     "assets/images/git-init.png",
     "copilot/copilot-custom-prompts",

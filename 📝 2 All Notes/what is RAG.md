@@ -47,6 +47,21 @@ onion --> vector, onion
 
 ![[rag | 1000]]
 
+![vector-embedding](https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2Fe88ebbacb848b09e477d11eedf4209d10ea4ac0a-1399x537.png&w=3840&q=75)
 
+![[indexing-and-query-phase | 1000]]
+
+
+## Why do we need RAG?
+
+1. In company
+	- suppose there are multiple programming languages that are only used in Microsoft.
+	- all these got their own documentation
+	- there are thousands and millions of these documentation present in a company.
+	- You want to search for a particular topic from that is present in multiple documentation.
+	 
+2. In LAW
+	- In day to day life, there are multiple court cases going on and every one of them has its documentation.
+	- Suppose you are a lawyer and you want to search for a similar case that your current client is issued for.
 
 ---
