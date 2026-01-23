@@ -45,13 +45,6 @@ onion --> vector, onion
 - divide all notes into multiple chunks.
 - create vector for all chunks.
 
-![[rag | 1000]]
-
-![vector-embedding](https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2Fe88ebbacb848b09e477d11eedf4209d10ea4ac0a-1399x537.png&w=3840&q=75)
-
-![[indexing-and-query-phase | 1000]]
-
-
 ## Why do we need RAG?
 
 1. In company
@@ -63,5 +56,19 @@ onion --> vector, onion
 2. In LAW
 	- In day to day life, there are multiple court cases going on and every one of them has its documentation.
 	- Suppose you are a lawyer and you want to search for a similar case that your current client is issued for.
+
+![[rag | 1000]]
+
+![vector-embedding](https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2Fe88ebbacb848b09e477d11eedf4209d10ea4ac0a-1399x537.png&w=3840&q=75)
+
+![[indexing-and-query-phase | 1000]]
+
+
+## What is chunk overlap?
+
+- You created chunks for pdf size of 1000.
+- 1-1000, 1001-2000, 2001-3000
+- But suppose some topic is in 1500-2100, here it looses the context.
+- So we do some overlap, like 1-1200, 800-2200, 1800-3200
 
 ---
