@@ -24,8 +24,13 @@ git init
 git add file_name
 ```
 
+```sh
+git add .
+```
+
+- comes in staging area
 - git starts tracking
-- 
+- `A` - index tracking
 
 ```bash
 cd .git
@@ -48,12 +53,16 @@ ls
 6. objects
 	- creates folders for each commit starting with first 2 letter of commit id. eg- **commit id: 2b9b0.....**
 	1. 2b
-		1. 9b0.....
-		2. `cat 9b0....`
-			- it stores changes, 
-			- author, 
-			- commit message
-			- previous node address
+		1. inside 2b, `ls`
+			1. 9b0.....
+			2. `cat 9b0....`
+				1. returns in compressed format
+			3. `git cat-file -p 9b0...`
+				- it stores changes, 
+				- author, 
+				- commit message
+				- previous node address
+			4. `git cat-file -p 9b0...`
 	2. 05
 	3. 52
 	4. pack
@@ -61,8 +70,9 @@ ls
 7. config          
 8. index(file)
 	1. `cat index`
-		1. returns in zipped format
+		1. returns in zipped compressed format
 		2. stores which files to track.
+		3. `git status` - works same
 9. refs
 	1. heads
 		1. main (branch name)
@@ -74,6 +84,27 @@ ls
 ```sh
 git cat-file -p <id>
 ```
+
+## Commit
+
+```sh
+git commit -m "message"
+```
+
+- its like checkpoint
+- every comment has its hashed id
+
+### Show
+
+```sh
+git log
+```
+
+- commit id, brach name
+- author
+- date and time
+- commit message
+
 
 
 ---
