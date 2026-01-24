@@ -7,11 +7,30 @@ status: 🟩
 2026-01-17        13:10
 
 ---
-# What is Title?
+# How git works?
+
+- On your local machine you have git installed.
+- there are multiple projects on your device.
+- by default git does not tracks all files.
+
+```sh
+git init
+```
+
+- it initializes a .git folder
+- `U` - untracked files
+
+```sh
+git add file_name
+```
+
+- git starts tracking
+- 
 
 ```bash
 cd .git
 ```
+
 
 ```sh
 ls
