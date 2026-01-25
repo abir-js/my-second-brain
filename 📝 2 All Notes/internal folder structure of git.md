@@ -58,6 +58,7 @@ ls
 			2. `cat 9b0....`
 				1. returns in compressed format
 			3. `git cat-file -p 9b0...`
+				- `-p` for print, `-t` for type
 				- it stores changes, 
 				- author, 
 				- commit message
