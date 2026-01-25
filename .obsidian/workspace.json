@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f43fbbcc170c23a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 2 All Notes/2026-01-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-24"
-            }
-          },
-          {
             "id": "f42d8ca133c7b1b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/figure and figcaption tag.md",
+                "file": "🔗 3 Indexes/TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "figure and figcaption tag"
+              "title": "TypeScript"
             }
           },
           {
@@ -59,8 +45,7 @@
               "title": "indexing-and-query-phase"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,6 +227,16 @@
   },
   "active": "f42d8ca133c7b1b4",
   "lastOpenFiles": [
+    "📝 2 All Notes/typescript day 3.md",
+    "🔗 3 Indexes/TypeScript.md",
+    "📝 2 All Notes/typescript day 2.md",
+    "📝 2 All Notes/typescript day 1.md",
+    "🔗 3 Indexes/frontend.md",
+    "🔗 3 Indexes/NextJS.md",
+    "📝 2 All Notes/server action in nextjs.md",
+    "📝 2 All Notes/css.md",
+    "📝 2 All Notes/dns.md",
+    "📝 2 All Notes/browser.md",
     "📝 2 All Notes/html.md",
     "📝 2 All Notes/figure and figcaption tag.md",
     "📝 2 All Notes/em vs i tag.md",
@@ -250,7 +245,6 @@
     "📝 2 All Notes/what is git and why do we need it.md",
     "Excalidraw/Drawing 2026-01-24 20.33.34.excalidraw.md",
     "📝 2 All Notes/internal folder structure of git.md",
-    "🔗 3 Indexes/frontend.md",
     "📝 2 All Notes/2026-01-24.md",
     "🔗 3 Indexes/todo.md",
     "📝 2 All Notes/Untitled.base",
@@ -260,22 +254,13 @@
     "📝 2 All Notes/What is LangChain.md",
     "Excalidraw/indexing-and-query-phase.md",
     "Excalidraw/rag.md",
-    "📝 2 All Notes/2026-01-21.md",
-    "📝 2 All Notes/2026-01-17.md",
-    "📝 2 All Notes/spiral matrix.md",
-    "📝 2 All Notes/equal sums.md",
-    "🔗 3 Indexes/DSA.md",
-    "📝 2 All Notes/max subarray sum using kadane's algo.md",
-    "📝 2 All Notes/maximum difference between two elements.md",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",
     "assets/Pasted image 20260114115643.png",
     "Untitled.canvas",
     "gen-ai/Untitled 1.base",
-    "📝 2 All Notes/rag.md",
     "📝 2 All Notes/Untitled 2.base",
     "📝 2 All Notes/Untitled 1.base",
-    "Excalidraw/zero-based-indexing.md",
     "gen-ai",
     "assets/images/git-init.png",
     "copilot/copilot-custom-prompts",
