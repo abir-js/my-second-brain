@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,17 +240,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b886a2b111e677d6",
+  "active": "f42d8ca133c7b1b4",
   "lastOpenFiles": [
+    "📝 2 All Notes/difference between b and strong tag.md",
     "📝 2 All Notes/html.md",
+    "📝 2 All Notes/git and github.md",
+    "📝 2 All Notes/what is git and why do we need it.md",
     "Excalidraw/Drawing 2026-01-24 20.33.34.excalidraw.md",
-    "🔗 3 Indexes/frontend.md",
     "📝 2 All Notes/internal folder structure of git.md",
+    "🔗 3 Indexes/frontend.md",
     "📝 2 All Notes/2026-01-24.md",
     "🔗 3 Indexes/todo.md",
     "📝 2 All Notes/Untitled.base",
     "📝 2 All Notes/2026-01-23.md",
-    "📝 2 All Notes/git and github.md",
     "📝 2 All Notes/what is RAG.md",
     "🔗 3 Indexes/gen-ai.md",
     "📝 2 All Notes/What is LangChain.md",
@@ -274,8 +276,6 @@
     "Excalidraw/zero-based-indexing.md",
     "Excalidraw/vector.md",
     "Excalidraw/two-sum-using-two-pointer.md",
-    "Excalidraw/two-sum-using-binary-search.md",
-    "Excalidraw/trapping-rainwater-solution.md",
     "gen-ai",
     "assets/images/git-init.png",
     "copilot/copilot-custom-prompts",

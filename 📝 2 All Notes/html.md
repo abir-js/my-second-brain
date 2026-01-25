@@ -21,3 +21,5 @@ HTML --> parser
 
 ![[Drawing 2026-01-24 20.33.34.excalidraw | 1000]]
 
+- [[difference between b and strong tag]]
+- 
