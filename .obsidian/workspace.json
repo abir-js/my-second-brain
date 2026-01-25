@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/em vs i tag.md",
+                "file": "📝 2 All Notes/figure and figcaption tag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "em vs i tag"
+              "title": "figure and figcaption tag"
             }
           },
           {
@@ -243,6 +243,7 @@
   "active": "f42d8ca133c7b1b4",
   "lastOpenFiles": [
     "📝 2 All Notes/html.md",
+    "📝 2 All Notes/figure and figcaption tag.md",
     "📝 2 All Notes/em vs i tag.md",
     "📝 2 All Notes/difference between b and strong tag.md",
     "📝 2 All Notes/git and github.md",
@@ -275,7 +276,6 @@
     "📝 2 All Notes/Untitled 2.base",
     "📝 2 All Notes/Untitled 1.base",
     "Excalidraw/zero-based-indexing.md",
-    "Excalidraw/vector.md",
     "gen-ai",
     "assets/images/git-init.png",
     "copilot/copilot-custom-prompts",
