@@ -2,7 +2,6 @@
 tags:
   - index
 ---
-
 ## Introduction
 
 1. [[introduction to programming]]
@@ -75,6 +74,12 @@ Practice
 - [[trapping rainwater problem]]
 
 
+## 2D Array
+
+22/01 - lecture 23
+- [[search in a matrix]]
+- [[add two matrix]]
+- 
 
 ## Important
 
