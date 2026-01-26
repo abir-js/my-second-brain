@@ -79,6 +79,8 @@ Practice
 22/01 - lecture 23
 - [[search in a matrix]]
 - [[add two matrix]]
+- [[row with max sum]]
+- [[transpose of a matrix]]
 - 
 
 ## Important
