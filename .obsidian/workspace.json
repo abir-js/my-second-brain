@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/transpose of a matrix.md",
+                "file": "📝 2 All Notes/what is string.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "transpose of a matrix"
+              "title": "what is string"
             }
           },
           {
@@ -254,9 +254,10 @@
   },
   "active": "be7da58120527991",
   "lastOpenFiles": [
-    "Excalidraw/transpose-of-a-matrix.md",
-    "📝 2 All Notes/transpose of a matrix.md",
     "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/what is string.md",
+    "📝 2 All Notes/transpose of a matrix.md",
+    "Excalidraw/transpose-of-a-matrix.md",
     "📝 2 All Notes/split array into two equal sum subarrays.md",
     "📝 2 All Notes/row with max sum.md",
     "Excalidraw/indexing-and-query-phase.md",
@@ -279,7 +280,6 @@
     "📝 2 All Notes/html.md",
     "📝 2 All Notes/figure and figcaption tag.md",
     "📝 2 All Notes/em vs i tag.md",
-    "📝 2 All Notes/difference between b and strong tag.md",
     "📝 2 All Notes/Untitled.base",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",

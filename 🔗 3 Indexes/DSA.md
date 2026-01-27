@@ -83,6 +83,12 @@ Practice
 - [[transpose of a matrix]]
 - 
 
+## String
+
+26/01
+- [[what is string]]
+- 
+
 ## Important
 
 - [[trapping rainwater problem]]
