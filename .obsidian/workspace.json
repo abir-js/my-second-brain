@@ -35,8 +35,7 @@
               "title": "how git works"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,13 +215,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b886a2b111e677d6",
+  "active": "f42d8ca133c7b1b4",
   "lastOpenFiles": [
-    "📝 2 All Notes/git and github.md",
+    "📝 2 All Notes/how git works.md",
     "Excalidraw/git-initialization.md",
+    "📝 2 All Notes/git and github.md",
     "Excalidraw/Drawing 2026-01-24 20.33.34.excalidraw.md",
     "📝 2 All Notes/internal folder structure of git.md",
-    "📝 2 All Notes/how git works.md",
     "Excalidraw/transpose-of-a-matrix.md",
     "📝 2 All Notes/mongodb day 1.md",
     "Excalidraw/indexing-and-query-phase.md",
