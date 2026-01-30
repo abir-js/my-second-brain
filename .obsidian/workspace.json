@@ -22,29 +22,15 @@
             }
           },
           {
-            "id": "95c4112bc3911674",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
             "id": "b886a2b111e677d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "📝 2 All Notes/how git works.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/git-initialization.md"
               },
-              "icon": "lucide-file",
-              "title": "how git works"
+              "icon": "excalidraw-icon",
+              "title": "git-initialization"
             }
           }
         ],
@@ -228,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c4112bc3911674",
+  "active": "b886a2b111e677d6",
   "lastOpenFiles": [
     "📝 2 All Notes/how git works.md",
     "Excalidraw/git-initialization.md",
