@@ -1,0 +1,17 @@
+---
+tags:
+  - html
+status: 🟩
+---
+
+2026-02-01        03:53
+
+---
+# What is Title?
+
+- Website should be accessible.
+- some devices like screen readers will work on it.
+	- GDPR, HIPPA complience
+	- 
+
+---

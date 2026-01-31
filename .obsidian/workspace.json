@@ -22,19 +22,33 @@
             }
           },
           {
-            "id": "b886a2b111e677d6",
+            "id": "d363dd93557d7839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 2 All Notes/html.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "html"
+            }
+          },
+          {
+            "id": "9c3e9368f639b364",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/git-initialization.md"
+                "file": "Excalidraw/Drawing 2026-02-01 03.56.22.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "git-initialization"
+              "title": "Drawing 2026-02-01 03.56.22.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c5ac0d382e147be7",
@@ -214,13 +227,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b886a2b111e677d6",
+  "active": "9c3e9368f639b364",
   "lastOpenFiles": [
-    "📝 2 All Notes/how git works.md",
+    "📝 2 All Notes/html.md",
+    "Excalidraw/Drawing 2026-02-01 03.56.22.excalidraw.md",
+    "📝 2 All Notes/html stories.md",
+    "🔗 3 Indexes/frontend.md",
+    "📝 2 All Notes/difference between b and strong tag.md",
+    "📝 2 All Notes/internal folder structure of git.md",
     "Excalidraw/git-initialization.md",
+    "📝 2 All Notes/how git works.md",
     "📝 2 All Notes/git and github.md",
     "Excalidraw/Drawing 2026-01-24 20.33.34.excalidraw.md",
-    "📝 2 All Notes/internal folder structure of git.md",
     "Excalidraw/transpose-of-a-matrix.md",
     "📝 2 All Notes/mongodb day 1.md",
     "Excalidraw/indexing-and-query-phase.md",
@@ -237,11 +255,6 @@
     "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/transpose of a matrix.md",
     "📝 2 All Notes/split array into two equal sum subarrays.md",
-    "📝 2 All Notes/row with max sum.md",
-    "📝 2 All Notes/add two matrix.md",
-    "📝 2 All Notes/search in a matrix.md",
-    "🔗 3 Indexes/TypeScript.md",
-    "📝 2 All Notes/typescript day 3.md",
     "📝 2 All Notes/Untitled.base",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",
