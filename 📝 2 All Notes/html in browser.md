@@ -27,4 +27,14 @@ Browser mainly consists of these components
 
 ![[html-in-browser | 1000]]
 
+## Parsing
+
+1. Conventional Parsing
+	- CSS
+	- JS
+2. non-conventional parsing
+	- HTML
+
+
+
 ---
