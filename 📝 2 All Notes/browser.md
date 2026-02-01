@@ -24,7 +24,7 @@ status:
 
 HTML --> parser
 
-![[Drawing 2026-01-24 20.33.34.excalidraw | 1000]]
+![[html-in-browser| 1000]]
 
 
 ---

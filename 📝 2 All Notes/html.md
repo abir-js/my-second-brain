@@ -5,9 +5,10 @@ tags:
 
 ## html basics
 
-
+![[html-beginning | 1000]]
 
 - [[html stories]]
+- [[html in browser]]
 - 
 
 - [[difference between b and strong tag]]

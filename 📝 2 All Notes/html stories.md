@@ -11,7 +11,10 @@ status: 🟩
 
 - Website should be accessible.
 - some devices like screen readers will work on it.
-	- GDPR, HIPPA complience
-	- 
+	- GDPR, HIPPA compliance
+
+[Youtuber getting sued for $40,000](https://alpham.com/pete-and-pedro-website-lawsuit-aaron-marino-sued/)
+
+
 
 ---
