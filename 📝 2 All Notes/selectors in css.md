@@ -49,5 +49,28 @@ p {
 }
 ```
 
+## 5. Attribute Selector
+
+```css
+input[type="text"] {
+	border: 2px solid black;
+}
+```
+
+## 6. Descendant Selectors
+
+```html
+<article>
+	<p>Paragraph</p>
+</article>
+```
+
+```css
+article p {
+
+}
+```
+
+
 
 ---
