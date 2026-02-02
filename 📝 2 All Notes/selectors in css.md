@@ -33,6 +33,21 @@ p {
 }
 ```
 
+## 3. Id Selector
+
+```css
+#login-btn {
+
+}
+```
+
+## 4. Class Selector
+
+```css
+.container {
+
+}
+```
 
 
 ---
