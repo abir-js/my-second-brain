@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/split array into two equal sum subarrays.md",
-                "mode": "preview",
+                "file": "📝 2 All Notes/equal sums.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "split array into two equal sum subarrays"
+              "title": "equal sums"
             }
           },
           {
@@ -181,7 +181,19 @@
   },
   "active": "5e8d438af36b623d",
   "lastOpenFiles": [
+    "Excalidraw/equal-sums.md",
+    "📝 2 All Notes/equal sums.md",
     "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/selection sort.md",
+    "Excalidraw/selection-sort.md",
+    "Excalidraw/split-array-into-two-equal-sum-subarrays.md",
+    "📝 2 All Notes/split array into two equal sum subarrays.md",
+    "🔗 3 Indexes/MySQL.md",
+    "📝 2 All Notes/where clause in mysql.md",
+    "📝 2 All Notes/crud operation in mysql database.md",
+    "📝 2 All Notes/what is MySQL.md",
+    "📝 2 All Notes/what is database.md",
+    "📝 2 All Notes/trapping rainwater problem.md",
     "📝 2 All Notes/product pair.md",
     "📝 2 All Notes/pair with given difference.md",
     "📝 2 All Notes/triplet sum.md",
@@ -194,18 +206,6 @@
     "🔗 3 Indexes/gen-ai.md",
     "📝 2 All Notes/Time and Space Complexity.md",
     "📝 2 All Notes/introduction to cpp.md",
-    "📝 2 All Notes/ultimate mysql notes.md",
-    "🔗 3 Indexes/MySQL.md",
-    "📝 2 All Notes/sql vs nosql.md",
-    "📝 2 All Notes/what is DBMS.md",
-    "📝 2 All Notes/what is database.md",
-    "📝 2 All Notes/Why do we need database.md",
-    "📝 2 All Notes/find minimum in rotated sorted array.md",
-    "📝 2 All Notes/peak element in mountain array.md",
-    "📝 2 All Notes/Sqrt(x).md",
-    "Excalidraw/peak-element-in-mountain-array.md",
-    "📝 2 All Notes/find distances between two vectors.md",
-    "🔗 3 Indexes/ReactJS.md",
-    "📝 2 All Notes/states in react.md"
+    "📝 2 All Notes/ultimate mysql notes.md"
   ]
 }

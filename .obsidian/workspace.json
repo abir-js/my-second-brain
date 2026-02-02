@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/html in browser.md",
+                "file": "📝 2 All Notes/html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "html in browser"
+              "title": "html"
             }
           },
           {
@@ -32,8 +32,49 @@
               "icon": "excalidraw-icon",
               "title": "html-in-browser"
             }
+          },
+          {
+            "id": "5c3c186cd72ab6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 2 All Notes/selectors in css.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "selectors in css"
+            }
+          },
+          {
+            "id": "733813abfd0d069f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dom-for-css.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "dom-for-css"
+            }
+          },
+          {
+            "id": "ce5c633f14cefc75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔗 3 Indexes/DSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,16 +254,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f42d8ca133c7b1b4",
+  "active": "5c3c186cd72ab6a9",
   "lastOpenFiles": [
-    "Excalidraw/html-in-browser.md",
+    "Excalidraw/dom-for-css.md",
+    "📝 2 All Notes/selectors in css.md",
+    "📝 2 All Notes/css.md",
+    "🔗 3 Indexes/DSA.md",
+    "📝 2 All Notes/html.md",
+    "🔗 3 Indexes/frontend.md",
+    "📝 2 All Notes/internal folder structure of git.md",
     "📝 2 All Notes/html in browser.md",
+    "Excalidraw/html-in-browser.md",
     "Excalidraw/browser-structure.md",
     "Excalidraw/html-beginning.md",
-    "📝 2 All Notes/html.md",
-    "📝 2 All Notes/internal folder structure of git.md",
     "📝 2 All Notes/html stories.md",
-    "🔗 3 Indexes/frontend.md",
     "📝 2 All Notes/difference between b and strong tag.md",
     "Excalidraw/git-initialization.md",
     "📝 2 All Notes/how git works.md",
@@ -237,10 +282,6 @@
     "📝 2 All Notes/joins in mysql.md",
     "📝 2 All Notes/mysql day 3 notes.md",
     "📝 2 All Notes/mysql day 2 notes.md",
-    "📝 2 All Notes/mysql day 1 notes.md",
-    "📝 2 All Notes/ultimate mysql notes.md",
-    "📝 2 All Notes/what is string.md",
-    "🔗 3 Indexes/DSA.md",
     "📝 2 All Notes/Untitled.base",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",
