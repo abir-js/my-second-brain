@@ -9,6 +9,8 @@ status: 🟩
 ---
 # What is Title?
 
+Selectors are used to select an element and give it style.
+
 ## DOM
 
 ![[dom-for-css | 1000]]
@@ -71,6 +73,30 @@ article p {
 }
 ```
 
+## 7. Child Selector
 
+```html
+<div>
+	<p>This gets selected</p>
+	<div>
+		<p>This does not gets selected</p>
+	</div>
+	<p>This gets selected</p>
+</div>
+```
+
+```css
+div > p {
+	color: blue;
+}
+```
+
+## 8. adjacent Sibling Selector
+
+```css
+h1 + p {
+
+}
+```
 
 ---
