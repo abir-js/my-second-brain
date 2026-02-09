@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "DSA"
             }
+          },
+          {
+            "id": "017fe6cd05e3bcb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 2 All Notes/joins in mysql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "joins in mysql"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,10 +268,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c3c186cd72ab6a9",
+  "active": "017fe6cd05e3bcb8",
   "lastOpenFiles": [
-    "📝 2 All Notes/what is cascading ii css.md",
+    "🔗 3 Indexes/MySQL.md",
+    "📝 2 All Notes/pattern matching (like) in mysql.md",
+    "📝 2 All Notes/constraints in mysql.md",
+    "📝 2 All Notes/joins in mysql.md",
     "📝 2 All Notes/css.md",
+    "📝 2 All Notes/what is cascading ii css.md",
     "📝 2 All Notes/selectors in css.md",
     "Excalidraw/html-in-browser.md",
     "🔗 3 Indexes/DSA.md",
@@ -277,11 +295,7 @@
     "📝 2 All Notes/mongodb day 1.md",
     "Excalidraw/indexing-and-query-phase.md",
     "🔗 3 Indexes/MongoDB.md",
-    "🔗 3 Indexes/MySQL.md",
     "📝 2 All Notes/stored procedure in mysql.md",
-    "📝 2 All Notes/subqueries in mysql.md",
-    "📝 2 All Notes/joins in mysql.md",
-    "📝 2 All Notes/mysql day 3 notes.md",
     "📝 2 All Notes/Untitled.base",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",
