@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔗 3 Indexes/JavaScript.md",
+                "file": "📝 2 All Notes/2026-02-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "2026-02-12"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔗 3 Indexes/JavaScript.md",
+                "file": "📝 2 All Notes/2026-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JavaScript"
+              "title": "Backlinks for 2026-02-12"
             }
           },
           {
@@ -202,8 +202,9 @@
   },
   "active": "017fe6cd05e3bcb8",
   "lastOpenFiles": [
-    "🔗 3 Indexes/frontend.md",
     "🔗 3 Indexes/JavaScript.md",
+    "📝 2 All Notes/2026-02-12.md",
+    "🔗 3 Indexes/frontend.md",
     "🔗 3 Indexes/System-Design.md",
     "📝 2 All Notes/joins in mysql.md",
     "📝 2 All Notes/what is multi-tenancy.md",
@@ -227,7 +228,6 @@
     "📝 2 All Notes/difference between b and strong tag.md",
     "Excalidraw/git-initialization.md",
     "📝 2 All Notes/how git works.md",
-    "📝 2 All Notes/git and github.md",
     "📝 2 All Notes/Untitled.base",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",
