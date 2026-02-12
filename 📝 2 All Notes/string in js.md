@@ -25,27 +25,22 @@ A string is a primitive data type in JavaScript used to represent a sequence of 
 There are three ways to create a string literal in JavaScript.
 
 1. **Single Quotes (`'...'`):**
-    
-    ```jsx
-    let singleQuoted = 'Hello, world!';
-    
-    ```
-    
+```jsx
+let singleQuoted = 'Hello, world!';
+```
+
 2. **Double Quotes (`"..."`):** Functionally identical to single quotes. The main reason to choose one over the other is for convenience when a string itself contains quotes.
-    
-    ```jsx
-    let doubleQuoted = "He said, 'Hello!'"; // Easy to include single quotes
-    let singleQuotedWithDouble = 'She replied, "Hi!"'; // Easy to include double quotes
-    
-    ```
-    
-3. **Template Literals (`...` - ES6):** The most powerful and modern way. They use backticks. We will cover the special features of template literals later.
-    
-    ```jsx
-    let templateLiteral = `This is a template literal.`;
-    
-    ```
-    
+
+```jsx
+let doubleQuoted = "He said, 'Hello!'"; // Easy to include single quotes
+let singleQuotedWithDouble = 'She replied, "Hi!"'; // Easy to include double quotes
+```
+
+1. **Template Literals (`...` - ES6):** The most powerful and modern way. They use backticks. We will cover the special features of template literals later.
+
+```jsx
+let templateLiteral = `This is a template literal.`;
+```
 
 ---
 
@@ -105,11 +100,10 @@ These methods are your primary tools for working with strings. Remember, they al
     
 - **`.toLowerCase()`:** Returns a new string with all characters in lowercase.
     
-    ```jsx
-    let whisper = "please be quiet";
-    let shout = whisper.toUpperCase(); // "PLEASE BE QUIET"
-    
-    ```
+```jsx
+let whisper = "please be quiet";
+let shout = whisper.toUpperCase(); // "PLEASE BE QUIET"
+```
     
 
 **B. Finding Substrings**
@@ -120,17 +114,17 @@ These methods are your primary tools for working with strings. Remember, they al
     
 - **`.includes(substring)` (ES6):** Returns a boolean (`true` or `false`) indicating if the string contains the substring. This is often more readable than `indexOf`.
     
-    ```jsx
-    let sentence = "The quick brown fox jumps over the lazy fox.";
-    
-    console.log(sentence.indexOf("fox"));     // 16 (the first one)
-    console.log(sentence.lastIndexOf("fox")); // 40 (the last one)
-    console.log(sentence.indexOf("cat"));     // -1 (not found)
-    
-    console.log(sentence.includes("jumps"));  // true
-    console.log(sentence.includes("cat"));    // false
-    
-    ```
+```jsx
+let sentence = "The quick brown fox jumps over the lazy fox.";
+
+console.log(sentence.indexOf("fox"));     // 16 (the first one)
+console.log(sentence.lastIndexOf("fox")); // 40 (the last one)
+console.log(sentence.indexOf("cat"));     // -1 (not found)
+
+console.log(sentence.includes("jumps"));  // true
+console.log(sentence.includes("cat"));    // false
+
+```
     
 
 **C. Extracting Substrings**
@@ -141,14 +135,13 @@ These methods are your primary tools for working with strings. Remember, they al
     - `endIndex`: The index where the extraction ends (exclusive - it does not include this character).
     - You can use negative indices, which count from the end of the string.
     
-    ```jsx
-    let text = "JavaScript";
-    
-    console.log(text.slice(0, 4));  // "Java" (from index 0 up to, but not including, 4)
-    console.log(text.slice(4));     // "Script" (from index 4 to the end)
-    console.log(text.slice(-6));    // "Script" (the last 6 characters)
-    
-    ```
+```jsx
+let text = "JavaScript";
+
+console.log(text.slice(0, 4));  // "Java" (from index 0 up to, but not including, 4)
+console.log(text.slice(4));     // "Script" (from index 4 to the end)
+console.log(text.slice(-6));    // "Script" (the last 6 characters)
+```
     
 - **`.substring(startIndex, endIndex)`:** Similar to `.slice()`, but it doesn't accept negative indices.
     
@@ -182,80 +175,73 @@ console.log(allNewGreeting); // "hi world, hi there"
     
 - **`.trimStart()` / `.trimEnd()`:** Removes whitespace from only the start or end.
     
-    ```jsx
-    let userInput = "   my-username@example.com   ";
-    let cleanedInput = userInput.trim(); // "my-username@example.com"
-    
-    ```
-    
+```jsx
+let userInput = "   my-username@example.com   ";
+let cleanedInput = userInput.trim(); // "my-username@example.com"    
+```
+
 
 **F. Splitting a String into an Array**
 
 - **`.split(separator)`:** Splits a string into an array of substrings, using the `separator` to decide where to split. This is incredibly useful.
-    
-    ```jsx
-    let csvData = "item1,item2,item3";
-    let items = csvData.split(","); // ["item1", "item2", "item3"]
-    
-    let words = "The quick brown fox";
-    let word_array = words.split(" "); // ["The", "quick", "brown", "fox"]
-    
-    let letters = "abc";
-    let letter_array = letters.split(""); // ["a", "b", "c"]
-    
-    ```
-    
+
+```jsx
+let csvData = "item1,item2,item3";
+let items = csvData.split(","); // ["item1", "item2", "item3"]
+let words = "The quick brown fox";
+let word_array = words.split(" "); // ["The", "quick", "brown", "fox"]
+let letters = "abc";
+let letter_array = letters.split(""); // ["a", "b", "c"]    
+```
+
 
 ---
 
 ### **5. Template Literals (ES6) - The Modern Way**
 
-Template literals, created with backticks (```), are a massive improvement for working with strings.
+Template literals, created with backticks   $`string`$ , are a massive improvement for working with strings.
 
 **A. Variable Interpolation (`${...}`):** This allows you to embed expressions and variables directly into a string. It's far more readable than using the `+` operator for concatenation.
 
 - **The Old Way (Concatenation):**
-    
-    ```jsx
-    let name = "Alice";
-    let age = 30;
-    let message = "Hello, my name is " + name + " and I am " + age + " years old.";
-    
-    ```
-    
+
+```jsx
+let name = "Alice";
+let age = 30;
+let message = "Hello, my name is " + name + " and I am " + age + " years old.";    
+```
+
 - **The New Way (Template Literals):**
-    
-    ```jsx
-    let name = "Alice";
-    let age = 30;
-    let message = `Hello, my name is ${name} and I am ${age} years old.`;
-    // You can even put expressions inside:
-    let futureMessage = `Next year, I will be ${age + 1}.`;
-    
-    ```
-    
+
+```jsx
+let name = "Alice";
+let age = 30;
+let message = `Hello, my name is ${name} and I am ${age} years old.`;
+// You can even put expressions inside:
+let futureMessage = `Next year, I will be ${age + 1}.`;
+
+```
+
 
 **B. Multi-line Strings:** Template literals respect newlines inside the string.
 
 - **The Old Way:**
+
+```jsx
+let htmlOld = '<div>\\\\n' +
+              '  <p>Hello</p>\\\\n' +
+              '</div>';
     
-    ```jsx
-    let htmlOld = '<div>\\\\n' +
-                  '  <p>Hello</p>\\\\n' +
-                  '</div>';
-    
-    ```
-    
+```
+
 - **The New Way:**
-    
-    ```jsx
-    let htmlNew = `
-      <div>
-        <p>Hello</p>
-      </div>
-    `;
-    
-    ```
-    
+
+```jsx
+let htmlNew = `
+    <div>
+	    <p>Hello</p>
+	</div>
+`;
+```
 
 ---

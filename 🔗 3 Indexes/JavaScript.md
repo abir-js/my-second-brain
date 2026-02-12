@@ -12,6 +12,9 @@ tags:
 - [[operators in js]]
 - [[numbers and math object]]
 - [[string in js]]
+	- `.repeat(times): 
+		- Returns a String value that is made from count copies appended together. If count is 0, the empty string is returned.
+		- _@param_  `count` — number of copies to append`
 - [[date in js]]
 
 ## Flow Control
