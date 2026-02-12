@@ -15,11 +15,18 @@ tags:
 	- `.repeat(times): 
 		- Returns a String value that is made from count copies appended together. If count is 0, the empty string is returned.
 		- _@param_  `count` — number of copies to append
-	- `String.slice(start?: number | undefined, end?: number | undefined)`: string
+	- `.slice(start?: number | undefined, end?: number | undefined)`: string
 		- Returns a section of a string.
 		- _@param_ `start` — The index to the beginning of the specified portion of stringObj.
 		- _@param_ `end` — The index to the end of the specified portion of stringObj. The substring includes the characters up to, but not including, the character indicated by end. If this value is not specified, the substring continues to the end of stringObj.
-	- 
+	- `.split()`
+		- Split a string into substrings using the specified separator and return them as an array.
+		- _@param_ `splitter` — An object that can split a string.
+		- _@param_ `limit` — A value used to limit the number of elements returned in the array.
+	- `.join()`
+	- `.replace()`
+	- `.replaceAll()`
+	- `.repeat()`
 - [[date in js]]
 
 ## Flow Control

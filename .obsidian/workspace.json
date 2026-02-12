@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/string in js.md",
+                "file": "🔗 3 Indexes/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "string in js"
+              "title": "JavaScript"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "017fe6cd05e3bcb8",
   "lastOpenFiles": [
-    "🔗 3 Indexes/JavaScript.md",
     "📝 2 All Notes/string in js.md",
+    "🔗 3 Indexes/JavaScript.md",
     "Excalidraw/dom-for-css.md",
     "📝 2 All Notes/css.md",
     "Excalidraw/html-in-browser.md",
