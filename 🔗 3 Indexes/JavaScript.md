@@ -48,7 +48,6 @@ tags:
 
 - [[function in js]]
 
-
 ## Interview Concepts
 - [[global execution context]]
 - [[function execution context]]
@@ -61,11 +60,5 @@ tags:
 - [[Synchronous vs Asynchronous]]
 - [[event loop]]
 
-
 [[this-keyword]]
 
-## 100 days of JS
-
-1. [[what is multi-tenancy]]
-2. [[how ChatGPT works]]
-3. [[database relationships]]

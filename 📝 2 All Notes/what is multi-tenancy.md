@@ -18,6 +18,6 @@ status: 🟩
 	- but also shares common resources like lift.
 2. Shopify
 
-![[multi-tenancy]]
+![[multi-tenancy | 1000]]
 
 ---
