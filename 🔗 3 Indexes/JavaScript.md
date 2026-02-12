@@ -11,6 +11,9 @@ tags:
 - [[type-conversion]]
 - [[operators in js]]
 - [[numbers and math object]]
+	- **.toFixed(fractionDigits?: number | undefined): string**
+		- Returns a **string** representing a number in fixed-point notation.
+		- _@param_ `fractionDigits` — Number of digits after the decimal point. Must be in the range 0 - 20, inclusive.
 - [[string in js]]
 	- `.repeat(times): 
 		- Returns a String value that is made from count copies appended together. If count is 0, the empty string is returned.
