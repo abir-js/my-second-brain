@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 2 All Notes/2026-02-12.md",
+                "file": "📝 2 All Notes/2026-02-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-12"
+              "title": "2026-02-14"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 2 All Notes/2026-02-12.md",
+                "file": "📝 2 All Notes/2026-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-12"
+              "title": "Backlinks for 2026-02-14"
             }
           },
           {
@@ -216,10 +216,11 @@
   },
   "active": "017fe6cd05e3bcb8",
   "lastOpenFiles": [
-    "📝 2 All Notes/data types in JavaScript.md",
-    "📝 2 All Notes/2026-02-12.md",
-    "📝 2 All Notes/Symbol.md",
     "🔗 3 Indexes/JavaScript.md",
+    "📝 2 All Notes/2026-02-14.md",
+    "📝 2 All Notes/2026-02-12.md",
+    "📝 2 All Notes/data types in JavaScript.md",
+    "📝 2 All Notes/Symbol.md",
     "🔗 3 Indexes/frontend.md",
     "🔗 3 Indexes/System-Design.md",
     "📝 2 All Notes/joins in mysql.md",
@@ -241,7 +242,6 @@
     "Excalidraw/browser-structure.md",
     "Excalidraw/html-beginning.md",
     "📝 2 All Notes/html stories.md",
-    "📝 2 All Notes/difference between b and strong tag.md",
     "📝 2 All Notes/Untitled.base",
     "assets/Pasted Image 20251004113724_815.png",
     "assets/Pasted image 20251019130829.png",
